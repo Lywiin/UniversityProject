@@ -1,0 +1,1114 @@
+﻿Log file open, 01/24/17 17:05:58
+LogInit:Display: Running engine for game: UniversityProject
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(862461177) SRandInit(862461177).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.089155
+LogPluginManager: Loaded Plugin Paper2D, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: 
+LogInit: Base directory: E:/Logiciels/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.24-16.05.58:818][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.24-16.05.58:818][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.24-16.05.58:831][  0]LogInit: Computer: LYWINPC
+[2017.01.24-16.05.58:831][  0]LogInit: User: Lywin
+[2017.01.24-16.05.58:831][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.01.24-16.05.58:831][  0]LogInit: High frequency timer resolution =3.335293 MHz
+[2017.01.24-16.05.58:831][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.01.24-16.05.58:831][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.24-16.05.58:831][  0]LogMemory: Process Physical Memory: 264.25 MB used, 264.25 MB peak
+[2017.01.24-16.05.58:831][  0]LogMemory: Process Virtual Memory: 262.63 MB used, 262.63 MB peak
+[2017.01.24-16.05.58:831][  0]LogMemory: Physical Memory: 3682.82 MB used,  4507.29 MB free, 8190.11 MB total
+[2017.01.24-16.05.58:831][  0]LogMemory: Virtual Memory: 675.70 MB used,  4507.29 MB free, 134217728.00 MB total
+[2017.01.24-16.05.58:871][  0]LogTextLocalizationManager: No translations for ('fr-FR') exist, falling back to 'en' for localization and internationalization data.
+[2017.01.24-16.05.59:882][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.24-16.05.59:911][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2017.01.24-16.05.59:911][  0]LogD3D11RHI:       4058/0/4095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.01.24-16.05.59:914][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.24-16.05.59:914][  0]LogD3D11RHI:       0/0/4095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.24-16.05.59:914][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.24-16.05.59:919][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.24-16.05.59:919][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.24-16.05.59:919][  0]LogWindows: EnumDisplayDevices:
+[2017.01.24-16.05.59:920][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2017.01.24-16.05.59:920][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2017.01.24-16.05.59:920][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.01.24-16.05.59:921][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.01.24-16.05.59:921][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.01.24-16.05.59:921][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2017.01.24-16.05.59:921][  0]LogD3D11RHI:   Driver Version: 369.09 (internal:21.21.13.6909, unified:369.09)
+[2017.01.24-16.05.59:921][  0]LogD3D11RHI:      Driver Date: 8-1-2016
+[2017.01.24-16.05.59:921][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.01.24-16.05.59:938][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.24-16.05.59:950][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.01.24-16.05.59:951][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../UnrealProjects/UniversityProject/Intermediate/Shaders/WorkingDirectory/9628/).
+[2017.01.24-16.05.59:951][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lywin/AppData/Local/Temp/UnrealShaderWorkingDir/4315FB6140BB7A98EB9DF3BFB4556D54/'.
+[2017.01.24-16.05.59:951][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.24-16.06.01:949][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.24-16.06.02:026][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.24-16.06.02:102][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.24-16.06.02:177][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.24-16.06.02:258][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.24-16.06.02:336][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.24-16.06.02:418][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.24-16.06.02:537][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.24-16.06.02:619][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.24-16.06.02:736][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.24-16.06.02:818][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.24-16.06.02:899][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.24-16.06.02:980][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.24-16.06.03:062][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.24-16.06.03:152][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.24-16.06.03:307][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.24-16.06.03:307][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.24-16.06.03:359][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.24-16.06.03:476][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.24-16.06.03:523][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.24-16.06.03:602][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.24-16.06.03:681][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.24-16.06.03:757][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.24-16.06.03:834][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.24-16.06.03:834][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.24-16.06.04:337][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.24-16.06.04:456][  0]LogDerivedDataCache: Loaded boot cache 0.12s 50MB C:/Users/Lywin/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.24-16.06.04:456][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Lywin/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.24-16.06.04:457][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UnrealProjects/UniversityProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.24-16.06.04:457][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.24-16.06.04:457][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UnrealProjects/UniversityProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.24-16.06.04:457][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.24-16.06.04:485][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.24-16.06.04:498][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lywin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.24-16.06.04:829][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.24-16.06.04:834][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.24-16.06.05:117][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.24-16.06.05:177][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.24-16.06.05:243][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.24-16.06.05:243][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.24-16.06.05:243][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.24-16.06.06:022][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: universityproject, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 4107576575
+[2017.01.24-16.06.06:092][  0]LogAssetRegistry: FAssetRegistry took 0.0226 seconds to start up
+[2017.01.24-16.06.06:134][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.016806 seconds
+[2017.01.24-16.06.06:146][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.24-16.06.06:146][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.01.24-16.06.06:146][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.24-16.06.06:216][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.24-16.06.07:201][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.24-16.06.07:202][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.24-16.06.07:202][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.24-16.06.08:775][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.24-16.06.08:823][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.24-16.06.09:239][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.24-16.06.09:759][  0]SourceControl: Info Source control is disabled
+[2017.01.24-16.06.09:761][  0]SourceControl: Info Source control is disabled
+[2017.01.24-16.06.09:824][  0]SourceControl: Info Source control is disabled
+[2017.01.24-16.06.09:887][  0]SourceControl: Info Source control is disabled
+[2017.01.24-16.06.11:696][  0]LogEngine: Initializing Engine...
+[2017.01.24-16.06.11:707][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2017.01.24-16.06.12:034][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.24-16.06.12:058][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-16.06.12:101][  0]LogInit: FAudioDevice initialized.
+[2017.01.24-16.06.12:153][  0]LogDerivedDataCache: Saved boot cache 0.05s 50MB C:/Users/Lywin/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.24-16.06.12:172][  0]LogInit: Texture streaming: Enabled
+[2017.01.24-16.06.12:405][  0]LogInit: Transaction tracking system initialized
+[2017.01.24-16.06.12:862][  0]BlueprintLog: New page: Editor Load
+[2017.01.24-16.06.14:042][  0]LocalizationService: Info Localization service is disabled
+[2017.01.24-16.06.14:900][  0]LogConsoleResponse:Display: 
+[2017.01.24-16.06.15:074][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.24-16.06.15:075][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.24-16.06.15:259][  0]LogFileCache: Scanning file cache for directory 'E:/Logiciels/Epic Games/UnrealProjects/UniversityProject/Content/' took 0.02s
+[2017.01.24-16.06.16:487][  0]SourceControl: Info Source control is disabled
+[2017.01.24-16.06.16:487][  0]Cmd: MAP LOAD FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.24-16.06.16:488][  0]LightingResults: New page: Lighting Build
+[2017.01.24-16.06.16:541][  0]MapCheck: New page: Map Check
+[2017.01.24-16.06.16:541][  0]LightingResults: New page: Lighting Build
+[2017.01.24-16.06.17:222][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.01.24-16.06.17:237][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.24-16.06.17:238][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.24-16.06.17:369][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 131.231ms to complete.
+[2017.01.24-16.06.17:369][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.882
+[2017.01.24-16.06.17:541][  0]LogCollectionManager: Loaded 0 collections in 0.001784 seconds
+[2017.01.24-16.06.17:636][  0]LogFileCache: Scanning file cache for directory 'E:/Logiciels/Epic Games/UnrealProjects/UniversityProject/Saved/Collections/' took 0.01s
+[2017.01.24-16.06.17:636][  0]LogFileCache: Scanning file cache for directory 'E:/Logiciels/Epic Games/UnrealProjects/UniversityProject/Content/Developers/Lywin/Collections/' took 0.01s
+[2017.01.24-16.06.17:636][  0]LogFileCache: Scanning file cache for directory 'E:/Logiciels/Epic Games/UnrealProjects/UniversityProject/Content/Collections/' took 0.01s
+[2017.01.24-16.06.17:636][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.01.24-16.06.17:649][  0]LogContentBrowser: Native class hierarchy populated in 0.0133 seconds. Added 2190 classes and 428 folders.
+[2017.01.24-16.06.17:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.24-16.06.17:705][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.24-16.06.17:705][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0008 seconds. Added 13 classes and 0 folders.
+[2017.01.24-16.06.17:787][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.01.24-16.06.17:870][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.01.24-16.06.17:928][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.01.24-16.06.17:981][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.24-16.06.17:993][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.24-16.06.18:080][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.01.24-16.06.18:080][  0]LogLoad: (Engine Initialization) Total time: 21.13 seconds
+[2017.01.24-16.06.18:080][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.28 seconds
+[2017.01.24-16.06.18:080][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.24-16.06.18:080][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.24-16.06.18:420][  0]LogOcInput: OculusInput pre-init called
+[2017.01.24-16.06.18:441][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2017.01.24-16.06.18:715][  0]LogRenderer: Reallocating scene render targets to support 1164x588 NumSamples 1 (Frame:2).
+[2017.01.24-16.06.19:195][  2]LogAssetRegistry: Asset discovery search completed in 13.1261 seconds
+[2017.01.24-16.06.19:195][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.24-16.06.19:195][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000021 seconds (updated 0 objects)
+[2017.01.24-16.06.42:648][924]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-16.06.42:683][924]Cmd: MAP LOAD FILE="../../../../UnrealProjects/UniversityProject/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.24-16.06.42:683][924]LightingResults: New page: Lighting Build
+[2017.01.24-16.06.42:684][924]LoadErrors: New page: Loading map: Level1.umap
+[2017.01.24-16.06.42:685][924]MapCheck: New page: Map Check
+[2017.01.24-16.06.42:685][924]LightingResults: New page: Lighting Build
+[2017.01.24-16.06.42:707][924]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.24-16.06.42:734][924]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.24-16.06.42:878][924]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 144.178ms to complete.
+[2017.01.24-16.06.42:879][924]LogFileHelpers: Loading map 'Level1' took 0.198
+[2017.01.24-16.06.54:316][230]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.01.24-16.06.54:356][230]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.01.24-16.07.39:859][508]LogTexture:Display: Building textures: T_ML_FineRubber (AutoDXT)
+[2017.01.24-16.07.49:419][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.07.49:419][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.07.49:419][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.07.49:419][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ReceiveHit' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.07.49:419][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:Projectile' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.07.49:419][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:Sphere' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.07.49:419][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:CollisionComponent' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.07.49:419][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C:CollisionComponent' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.07.49:419][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C:Sphere' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.07.49:419][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C:Projectile' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.07.49:419][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C:ReceiveHit' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.07.49:419][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.07.49:419][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.07.49:419][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_62' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_34' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_192' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_181' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_172' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_157' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:VR_Gun' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:VR_Marker' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:R_MotionController' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:L_MotionController' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:Sphere' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:FP_Gun' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:Mesh2P' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:FirstPersonCamera' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GunOffset' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UsingMotionControllers?' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:UsingMotionControllers?' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:GunOffset' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:FirstPersonCamera' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:Mesh2P' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:FP_Gun' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:Sphere' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:L_MotionController' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:R_MotionController' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:VR_Marker' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:434][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:VR_Gun' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:435][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:435][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:435][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:435][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_157' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:435][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_172' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:435][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_181' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:435][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_192' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:435][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_34' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:435][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_62' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:435][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.07.49:441][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.07.49:441][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.07.49:441][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.07.49:441][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ReceiveDrawHUD' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.07.49:441][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.07.49:441][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:HMDEnabled?' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.07.49:441][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C:HMDEnabled?' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.07.49:441][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.07.49:441][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C:ReceiveDrawHUD' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.07.49:441][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.07.49:441][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.07.49:441][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.07.49:447][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.01.24-16.07.49:447][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.01.24-16.07.49:447][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.01.24-16.07.49:447][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonGameMode.SKEL_FirstPersonGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.01.24-16.07.49:447][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonGameMode.SKEL_FirstPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.01.24-16.07.49:447][508]LogMetaData: Removing '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonGameMode.SKEL_FirstPersonGameMode_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.01.24-16.07.49:576][508]LogSavePackage: Save=30.14ms
+[2017.01.24-16.07.49:576][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonProjectile6B5B7A6F43E57C715636D0825CF087A8.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2017.01.24-16.07.49:578][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2017.01.24-16.07.49:676][508]LogSavePackage: Save=93.40ms
+[2017.01.24-16.07.49:677][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonCharacter2936CDF145F29CDB66F4BC91E19F78C3.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.01.24-16.07.49:679][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.01.24-16.07.49:703][508]LogSavePackage: Save=19.20ms
+[2017.01.24-16.07.49:703][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonHUDA4FA38EB47B6C139347562B88FF98DE4.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.uasset'
+[2017.01.24-16.07.49:705][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.uasset
+[2017.01.24-16.07.49:723][508]LogSavePackage: Save=12.00ms
+[2017.01.24-16.07.49:723][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonGameMode47B4DA6D413CF50B8BD14EA36A80CEB8.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2017.01.24-16.07.49:725][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset
+[2017.01.24-16.07.50:058][508]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'
+[2017.01.24-16.07.50:067][508]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'
+[2017.01.24-16.07.50:068][508]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile'
+[2017.01.24-16.07.50:069][508]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'
+[2017.01.24-16.07.50:070][508]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'
+[2017.01.24-16.07.50:071][508]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'
+[2017.01.24-16.07.50:072][508]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonHUD'
+[2017.01.24-16.07.50:096][508]LogMetaData: Removing '/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2017.01.24-16.07.50:096][508]LogMetaData: Removing '/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2017.01.24-16.07.50:096][508]LogMetaData: Removing '/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2017.01.24-16.07.50:096][508]LogMetaData: Removing '/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:IsMoving' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2017.01.24-16.07.50:096][508]LogMetaData: Removing '/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:bIsInAir' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2017.01.24-16.07.50:096][508]LogMetaData: Removing '/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.SKEL_FirstPerson_AnimBP_C:bIsInAir' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2017.01.24-16.07.50:096][508]LogMetaData: Removing '/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.SKEL_FirstPerson_AnimBP_C:IsMoving' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2017.01.24-16.07.50:096][508]LogMetaData: Removing '/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.SKEL_FirstPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2017.01.24-16.07.50:096][508]LogMetaData: Removing '/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.SKEL_FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2017.01.24-16.07.50:096][508]LogMetaData: Removing '/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.SKEL_FirstPerson_AnimBP_C' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2017.01.24-16.07.50:782][508]LogSavePackage: Save=55.38ms
+[2017.01.24-16.07.50:782][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPerson_AnimBP443D1A684C3604A7A4F0939CABF8177B.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2017.01.24-16.07.50:785][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.uasset
+[2017.01.24-16.07.50:791][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_AnimBP" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" SILENT=true
+[2017.01.24-16.07.50:798][508]LogSavePackage: Save=4.94ms
+[2017.01.24-16.07.50:798][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPerson_AnimBPE296628B4F32DD08542956A60629BFA9.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2017.01.24-16.07.50:800][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset
+[2017.01.24-16.07.50:947][508]LogSavePackage: Save=21.66ms
+[2017.01.24-16.07.50:947][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPerson_RunA8BF0B2840A0F280540346A6A22249CF.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_Run.uasset'
+[2017.01.24-16.07.50:949][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_Run.uasset
+[2017.01.24-16.07.51:023][508]LogSavePackage: Save=12.93ms
+[2017.01.24-16.07.51:023][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPerson_JumpStartF5C11415466DCA90AA2EAFA70E36934F.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart.uasset'
+[2017.01.24-16.07.51:025][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart.uasset
+[2017.01.24-16.07.51:102][508]LogSavePackage: Save=13.84ms
+[2017.01.24-16.07.51:102][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPerson_JumpLoop2AD0CC8345EA50455EF6448CEB719FD2.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop.uasset'
+[2017.01.24-16.07.51:104][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop.uasset
+[2017.01.24-16.07.51:160][508]LogSavePackage: Save=12.14ms
+[2017.01.24-16.07.51:160][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPerson_JumpEnd15A1C07D4304D874FB61A29F106D4E81.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd.uasset'
+[2017.01.24-16.07.51:163][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd.uasset
+[2017.01.24-16.07.51:209][508]LogSavePackage: Save=11.94ms
+[2017.01.24-16.07.51:209][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPerson_IdleC2DE67E04D897A761091FDAB6D196162.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_Idle.uasset'
+[2017.01.24-16.07.51:211][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_Idle.uasset
+[2017.01.24-16.07.51:219][508]LogSavePackage: Save=2.74ms
+[2017.01.24-16.07.51:219][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/SK_Mannequin_Arms_Skeleton0493780B42CA8077A170FA9803355216.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2017.01.24-16.07.51:221][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+[2017.01.24-16.07.51:263][508]LogSavePackage: Save=11.99ms
+[2017.01.24-16.07.51:263][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPerson_Fire74AD136E43E625BDCBDB2598DF716846.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_Fire.uasset'
+[2017.01.24-16.07.51:265][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_Fire.uasset
+[2017.01.24-16.07.51:337][508]LogSavePackage: Save=11.61ms
+[2017.01.24-16.07.51:337][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonFire_MontageC59122AB41EABD4D34562EA513CD82D6.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPersonFire_Montage.uasset'
+[2017.01.24-16.07.51:339][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPersonFire_Montage.uasset
+[2017.01.24-16.07.51:347][508]LogSavePackage: Save=1.34ms
+[2017.01.24-16.07.51:347][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonFire_MontageF1623E964F916C2CC58738A1F59B0069.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset'
+[2017.01.24-16.07.51:349][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset
+[2017.01.24-16.07.51:392][508]LogSavePackage: Save=13.44ms
+[2017.01.24-16.07.51:392][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/BaseMaterial120526E9463F3AE0226096B98348BFEE.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Meshes/BaseMaterial.uasset'
+[2017.01.24-16.07.51:394][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Meshes/BaseMaterial.uasset
+[2017.01.24-16.07.51:437][508]LogSavePackage: Save=12.35ms
+[2017.01.24-16.07.51:437][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonProjectileMaterial6C07A057480143BCEE5052BA6B2878D3.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset'
+[2017.01.24-16.07.51:439][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset
+[2017.01.24-16.07.51:482][508]LogSavePackage: Save=12.77ms
+[2017.01.24-16.07.51:482][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonProjectileMeshEA71BD2C48DD94772A4693B1310A721E.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset'
+[2017.01.24-16.07.51:484][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset
+[2017.01.24-16.07.51:492][508]LogSavePackage: Save=1.22ms
+[2017.01.24-16.07.51:492][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonProjectileMesh7C5D313F41A70F9D4BEF3587EE159A1E.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset'
+[2017.01.24-16.07.51:494][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset
+[2017.01.24-16.07.51:519][508]LogSavePackage: Save=5.25ms
+[2017.01.24-16.07.51:519][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonTemplateWeaponFire0219B6568C4089C3ADDBA684AEB4FC4A0A.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset'
+[2017.01.24-16.07.51:521][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset
+[2017.01.24-16.07.51:528][508]LogSavePackage: Save=1.21ms
+[2017.01.24-16.07.51:528][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonTemplateWeaponFire02C195B74D459BC9130CA113965947D612.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset'
+[2017.01.24-16.07.51:530][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset
+[2017.01.24-16.07.51:639][508]LogSavePackage: Save=82.11ms
+[2017.01.24-16.07.51:639][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_Rubber_Blue_01_DD9B65F5A4B6B77003EBD95AA7BC25BF7.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2017.01.24-16.07.51:641][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2017.01.24-16.07.51:740][508]LogSavePackage: Save=73.16ms
+[2017.01.24-16.07.51:740][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_Rubber_Blue_01_N80DBDDA246B780017F29D0807582C066.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2017.01.24-16.07.51:742][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2017.01.24-16.07.51:774][508]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.01.24-16.07.51:942][508]LogSavePackage: Save=15.29ms
+[2017.01.24-16.07.51:942][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_GlossyBlack_Latex_UE426FAF03A4D9F7D6586E8CAA2D19780C9.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2017.01.24-16.07.51:944][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2017.01.24-16.07.51:954][508]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2017.01.24-16.07.52:044][508]LogSavePackage: Save=13.71ms
+[2017.01.24-16.07.52:044][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_Plastic_Shiny_Beige9D29390B45CEBCB69FB5D49272EC5CEF.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2017.01.24-16.07.52:046][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2017.01.24-16.07.52:083][508]LogSavePackage: Save=10.13ms
+[2017.01.24-16.07.52:083][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/UE4_LOGO_CARDFED78A4A4C51EFE6A12C3780D874288D.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset'
+[2017.01.24-16.07.52:085][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset
+[2017.01.24-16.07.52:098][508]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.01.24-16.07.52:185][508]LogSavePackage: Save=14.34ms
+[2017.01.24-16.07.52:185][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_Plastic_Shiny_Beige_LOGO3C7EA84341BE33FD1FAA939532BB3D7B.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2017.01.24-16.07.52:187][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2017.01.24-16.07.52:358][508]LogSavePackage: Save=142.87ms
+[2017.01.24-16.07.52:358][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_Aluminum019CD2E3EF40CDAC832A91628219813C31.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2017.01.24-16.07.52:360][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2017.01.24-16.07.52:446][508]LogSavePackage: Save=65.08ms
+[2017.01.24-16.07.52:446][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_Aluminum01_N1B0E65FA47309B310598B59C83580474.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2017.01.24-16.07.52:449][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2017.01.24-16.07.52:463][508]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2017.01.24-16.07.52:557][508]LogSavePackage: Save=17.67ms
+[2017.01.24-16.07.52:557][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_SoftMetal_UE44EE1494F4569363E8F4D8F91AF512913.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2017.01.24-16.07.52:560][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2017.01.24-16.07.52:679][508]LogSavePackage: Save=97.62ms
+[2017.01.24-16.07.52:679][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/UE4_Mannequin__normals68C4E21840C7993E7D1D24952690E79D.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset'
+[2017.01.24-16.07.52:681][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset
+[2017.01.24-16.07.52:721][508]LogSavePackage: Save=16.96ms
+[2017.01.24-16.07.52:721][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/UE4_Mannequin_MAT_MASKA88D7F6114D8A92719C29AF9755FF87C8.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2017.01.24-16.07.52:723][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2017.01.24-16.07.52:788][508]LogSavePackage: Save=20.37ms
+[2017.01.24-16.07.52:788][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/M_UE4Man_BodyAAF70C5C4C4BEAFD718975B138F33754.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/M_UE4Man_Body.uasset'
+[2017.01.24-16.07.52:790][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Materials/M_UE4Man_Body.uasset
+[2017.01.24-16.07.52:800][508]LogSavePackage: Save=5.35ms
+[2017.01.24-16.07.52:800][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/SK_Mannequin_Arms_PhysicsAssetB0328B2D48C96B230152AC99F99B66C6.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset'
+[2017.01.24-16.07.52:802][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset
+[2017.01.24-16.07.52:887][508]LogSavePackage: Save=50.00ms
+[2017.01.24-16.07.52:887][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/SK_Mannequin_Arms3A07906A4C609AF7653EB1BD0F2821D5.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset'
+[2017.01.24-16.07.52:889][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset
+[2017.01.24-16.07.52:901][508]LogSavePackage: Save=1.58ms
+[2017.01.24-16.07.52:901][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/SK_Mannequin_Arms5BB36F35440BB345C5C69CA2C39BD8C1.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset'
+[2017.01.24-16.07.52:903][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset
+[2017.01.24-16.07.53:026][508]LogSavePackage: Save=94.31ms
+[2017.01.24-16.07.53:026][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_Rubber_Blue_01_D3831E7A847742BE70DBA6D90ED5F5CA7.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2017.01.24-16.07.53:029][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2017.01.24-16.07.53:168][508]LogSavePackage: Save=105.74ms
+[2017.01.24-16.07.53:168][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_Rubber_Blue_01_N4E9B1DD2489D9F073317CDB252FE80BD.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2017.01.24-16.07.53:171][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2017.01.24-16.07.53:181][508]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.01.24-16.07.53:275][508]LogSavePackage: Save=16.78ms
+[2017.01.24-16.07.53:275][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_GlossyBlack_Latex_UE400E196E144BA739E774B1EA83E49B501.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2017.01.24-16.07.53:278][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2017.01.24-16.07.53:289][508]LogMaterial: Missing cached shader map for material Material_5, compiling. 
+[2017.01.24-16.07.53:385][508]LogSavePackage: Save=14.14ms
+[2017.01.24-16.07.53:385][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_Plastic_Shiny_Beige9C8E062B427FE25BBEB6B0BDE6B885A0.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2017.01.24-16.07.53:387][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2017.01.24-16.07.53:395][508]LogMaterial: Missing cached shader map for material Material_6, compiling. 
+[2017.01.24-16.07.53:488][508]LogSavePackage: Save=13.87ms
+[2017.01.24-16.07.53:488][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_Screen2DF7473B43E5DC6D26375BB62CECCFCB.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset'
+[2017.01.24-16.07.53:490][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset
+[2017.01.24-16.07.53:672][508]LogSavePackage: Save=160.75ms
+[2017.01.24-16.07.53:672][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_Aluminum01640A132642788DD09008E0BAB0C7F987.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2017.01.24-16.07.53:674][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2017.01.24-16.07.53:773][508]LogSavePackage: Save=76.26ms
+[2017.01.24-16.07.53:773][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_Aluminum01_N7D59C9E74BE0D3CE1DC4DBAC105B4201.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2017.01.24-16.07.53:775][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2017.01.24-16.07.53:783][508]LogMaterial: Missing cached shader map for material Material_7, compiling. 
+[2017.01.24-16.07.53:875][508]LogSavePackage: Save=16.54ms
+[2017.01.24-16.07.53:875][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_SoftMetal_UE40080ED7F4846E2D2229C99A9F0D9FF85.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2017.01.24-16.07.53:878][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2017.01.24-16.07.53:912][508]LogSavePackage: Save=15.11ms
+[2017.01.24-16.07.53:912][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_FPGun_M6C98E6A241B672E5E9106EB747624DF6.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset'
+[2017.01.24-16.07.53:914][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset
+[2017.01.24-16.07.53:986][508]LogSavePackage: Save=42.11ms
+[2017.01.24-16.07.53:986][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_FPGun_N7A861B67445A003DC431209CC059377E.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset'
+[2017.01.24-16.07.53:988][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset
+[2017.01.24-16.07.54:039][508]LogSavePackage: Save=20.40ms
+[2017.01.24-16.07.54:039][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/M_FPGun89334B404CF92267BFE61AA179732493.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/M_FPGun.uasset'
+[2017.01.24-16.07.54:041][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/M_FPGun.uasset
+[2017.01.24-16.07.54:048][508]LogSavePackage: Save=1.87ms
+[2017.01.24-16.07.54:048][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/SK_FPGun_SkeletonD25573DC474A551277782E8A92A7074D.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset'
+[2017.01.24-16.07.54:050][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset
+[2017.01.24-16.07.54:118][508]LogSavePackage: Save=32.75ms
+[2017.01.24-16.07.54:118][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/SK_FPGunF4C78683482F944B4A89C58128D1C9E6.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset'
+[2017.01.24-16.07.54:120][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset
+[2017.01.24-16.07.54:125][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" SILENT=true
+[2017.01.24-16.07.54:133][508]LogSavePackage: Save=1.79ms
+[2017.01.24-16.07.54:133][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/SK_FPGunAE1BE0104D52573C4471709469771AB0.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset'
+[2017.01.24-16.07.54:136][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset
+[2017.01.24-16.07.54:143][508]LogSavePackage: Save=1.89ms
+[2017.01.24-16.07.54:143][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonCrosshairE326D7C1400C22DF9E63819EB44AEDD6.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Textures/FirstPersonCrosshair.uasset'
+[2017.01.24-16.07.54:145][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Textures/FirstPersonCrosshair.uasset
+[2017.01.24-16.07.54:149][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Textures/FirstPersonCrosshair" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" SILENT=true
+[2017.01.24-16.07.54:155][508]LogSavePackage: Save=1.69ms
+[2017.01.24-16.07.54:155][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonCrosshair8498A7844CD306D76377F8B44FB26814.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset'
+[2017.01.24-16.07.54:157][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset
+[2017.01.24-16.07.54:208][508]LogSavePackage: Save=12.83ms
+[2017.01.24-16.07.54:208][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/CubeMaterialOverrideE2441F6B4BE7552F1A3C4F8203AECB1E.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Meshes/CubeMaterialOverride.uasset'
+[2017.01.24-16.07.54:209][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Meshes/CubeMaterialOverride.uasset
+[2017.01.24-16.07.54:219][508]LogMaterial: Missing cached shader map for material Material_8, compiling. 
+[2017.01.24-16.07.54:307][508]LogSavePackage: Save=14.96ms
+[2017.01.24-16.07.54:307][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_Plastic_Shiny_Beige_LOGO7018506444D246ACF4313D9203EB5A59.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2017.01.24-16.07.54:309][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2017.01.24-16.07.54:427][508]LogSavePackage: Save=97.48ms
+[2017.01.24-16.07.54:427][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_FineRubberDAA8D73B45061D4985D735B748FB3773.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset'
+[2017.01.24-16.07.54:429][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset
+[2017.01.24-16.07.54:436][508]LogSavePackage: Save=1.98ms
+[2017.01.24-16.07.54:436][508]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/SK_FPGun_PhysicsAsset28B8C7944208E5C5B8665CA2603DFE24.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset'
+[2017.01.24-16.07.54:438][508]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset
+[2017.01.24-16.08.23:343][952]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-16.08.23:359][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-16.08.23:359][952]PIE: New page: PIE session: Level1 (Jan 24, 2017, 6:08:23 PM)
+[2017.01.24-16.08.23:359][952]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-16.08.23:371][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011565s)
+[2017.01.24-16.08.23:372][952]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-16.08.23:372][952]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2017.01.24-16.08.23:372][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.012887s)
+[2017.01.24-16.08.23:400][952]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-16.08.23:415][952]LogInit: FAudioDevice initialized.
+[2017.01.24-16.08.23:470][952]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode'
+[2017.01.24-16.08.23:471][952]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode'
+[2017.01.24-16.08.23:471][952]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C'
+[2017.01.24-16.08.23:471][952]LogLoad: Game class is 'GameModeBase'
+[2017.01.24-16.08.23:474][952]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-17.08.23
+[2017.01.24-16.08.23:475][952]LogWorld: Bringing up level for play took: 0.001308
+[2017.01.24-16.08.23:535][952]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2017.01.24-16.08.23:537][952]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.421
+[2017.01.24-16.09.02:250][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.09.02:250][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.09.02:250][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ReceiveHit' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.09.02:250][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.09.02:250][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:Projectile' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.09.02:250][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:Sphere' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.09.02:250][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:CollisionComponent' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.09.02:250][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.09.02:250][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C:CollisionComponent' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.09.02:250][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C:Sphere' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.09.02:250][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C:Projectile' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.09.02:250][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.09.02:250][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C:ReceiveHit' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.09.02:250][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2017.01.24-16.09.02:254][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:254][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:254][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_62' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:254][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_34' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:254][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:254][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_192' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:254][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_181' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:254][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_172' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:254][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_157' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:254][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:254][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:VR_Gun' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:254][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:VR_Marker' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:254][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:R_MotionController' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:254][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:L_MotionController' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:254][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:Sphere' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:254][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:FP_Gun' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:254][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:Mesh2P' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:FirstPersonCamera' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GunOffset' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UsingMotionControllers?' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:UsingMotionControllers?' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:GunOffset' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:FirstPersonCamera' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:Mesh2P' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:FP_Gun' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:Sphere' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:L_MotionController' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:R_MotionController' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:VR_Marker' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:VR_Gun' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_157' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_172' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_181' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_192' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_34' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_62' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:255][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.01.24-16.09.02:259][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.09.02:259][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.09.02:259][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ReceiveDrawHUD' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.09.02:259][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.09.02:259][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:DefaultSceneRoot' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.09.02:259][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:HMDEnabled?' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.09.02:259][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.09.02:259][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C:HMDEnabled?' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.09.02:259][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C:DefaultSceneRoot' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.09.02:259][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.09.02:259][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C:ReceiveDrawHUD' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.09.02:259][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.01.24-16.09.02:262][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.01.24-16.09.02:262][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.01.24-16.09.02:262][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.01.24-16.09.02:262][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.SKEL_FirstPersonGameMode_C' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.01.24-16.09.02:263][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.SKEL_FirstPersonGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.01.24-16.09.02:263][917]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.SKEL_FirstPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.01.24-16.09.02:369][917]LogSavePackage: Save=28.39ms
+[2017.01.24-16.09.02:369][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonProjectileD8A66E0F4BB0D9789150B999551D2A38.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2017.01.24-16.09.02:371][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2017.01.24-16.09.02:464][917]LogSavePackage: Save=87.67ms
+[2017.01.24-16.09.02:464][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonCharacter85A17CFD446B6A813A0CCAA1FB366B46.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.01.24-16.09.02:466][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.01.24-16.09.02:471][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonHUD" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" SILENT=true
+[2017.01.24-16.09.02:490][917]LogSavePackage: Save=17.66ms
+[2017.01.24-16.09.02:490][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonHUD5110C98A4B80A6BD44840587833E26A9.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset'
+[2017.01.24-16.09.02:492][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset
+[2017.01.24-16.09.02:508][917]LogSavePackage: Save=10.98ms
+[2017.01.24-16.09.02:508][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonGameModeF4A9CF054F27B71648410999B028EFD7.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2017.01.24-16.09.02:509][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset
+[2017.01.24-16.09.03:153][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_Run" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_Run.uasset" SILENT=true
+[2017.01.24-16.09.03:166][917]LogSavePackage: Save=11.71ms
+[2017.01.24-16.09.03:166][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPerson_RunED5E10F74B86DEB0B3193090BA60FD13.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_Run.uasset'
+[2017.01.24-16.09.03:168][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_Run.uasset
+[2017.01.24-16.09.03:209][917]LogSavePackage: Save=11.60ms
+[2017.01.24-16.09.03:209][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPerson_JumpStart7F3E6A3B48BEC13A80B817B81AAD81C7.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset'
+[2017.01.24-16.09.03:211][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset
+[2017.01.24-16.09.03:240][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_JumpLoop" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" SILENT=true
+[2017.01.24-16.09.03:252][917]LogSavePackage: Save=11.60ms
+[2017.01.24-16.09.03:252][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPerson_JumpLoop5D9F5C0F456D9DBA3DF123BE7504576D.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset'
+[2017.01.24-16.09.03:254][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset
+[2017.01.24-16.09.03:283][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_JumpEnd" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" SILENT=true
+[2017.01.24-16.09.03:295][917]LogSavePackage: Save=11.37ms
+[2017.01.24-16.09.03:296][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPerson_JumpEnd8A91FE4C4F41EDE441EF9B9022B3B108.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset'
+[2017.01.24-16.09.03:297][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset
+[2017.01.24-16.09.03:333][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_Idle" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" SILENT=true
+[2017.01.24-16.09.03:346][917]LogSavePackage: Save=11.68ms
+[2017.01.24-16.09.03:346][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPerson_Idle44F14685439F44A28FD415A62FFD5EFE.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_Idle.uasset'
+[2017.01.24-16.09.03:348][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_Idle.uasset
+[2017.01.24-16.09.03:355][917]LogSavePackage: Save=2.29ms
+[2017.01.24-16.09.03:355][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/SK_Mannequin_Arms_SkeletonF95D5AF747553D5E45625AA90226F929.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2017.01.24-16.09.03:357][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+[2017.01.24-16.09.03:386][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_Fire" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" SILENT=true
+[2017.01.24-16.09.03:399][917]LogSavePackage: Save=11.40ms
+[2017.01.24-16.09.03:399][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPerson_FireCEA878154E0D916B8DED5C89F5A6A88F.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_Fire.uasset'
+[2017.01.24-16.09.03:401][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_Fire.uasset
+[2017.01.24-16.09.03:442][917]LogSavePackage: Save=10.98ms
+[2017.01.24-16.09.03:442][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonFire_Montage9961FC73470ABB3B0F5C80828BD8A361.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset'
+[2017.01.24-16.09.03:444][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset
+[2017.01.24-16.09.03:474][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Meshes/BaseMaterial" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Meshes/BaseMaterial.uasset" SILENT=true
+[2017.01.24-16.09.03:488][917]LogSavePackage: Save=12.91ms
+[2017.01.24-16.09.03:488][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/BaseMaterialA3998D204BF7CA185CE618AA9ABD545D.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Meshes/BaseMaterial.uasset'
+[2017.01.24-16.09.03:490][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Meshes/BaseMaterial.uasset
+[2017.01.24-16.09.03:531][917]LogSavePackage: Save=12.26ms
+[2017.01.24-16.09.03:531][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonProjectileMaterial3AF25C14409D80C3C4B0F789BDEEE35C.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset'
+[2017.01.24-16.09.03:533][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset
+[2017.01.24-16.09.03:575][917]LogSavePackage: Save=12.52ms
+[2017.01.24-16.09.03:575][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonProjectileMeshA30AD49A4EB5B1B9412FD7861311BFEE.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset'
+[2017.01.24-16.09.03:577][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset
+[2017.01.24-16.09.03:597][917]LogSavePackage: Save=5.16ms
+[2017.01.24-16.09.03:597][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonTemplateWeaponFire02A35595A94D78D81C99CB94B65D2072D4.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset'
+[2017.01.24-16.09.03:599][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset
+[2017.01.24-16.09.03:709][917]LogSavePackage: Save=83.53ms
+[2017.01.24-16.09.03:709][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_Rubber_Blue_01_D70770DE4474179F76C0084BECAA44401.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2017.01.24-16.09.03:711][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2017.01.24-16.09.03:806][917]LogSavePackage: Save=73.75ms
+[2017.01.24-16.09.03:806][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_Rubber_Blue_01_ND0B515404DBDF1230025F3BE52EF6B9C.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2017.01.24-16.09.03:808][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2017.01.24-16.09.03:855][917]LogSavePackage: Save=15.08ms
+[2017.01.24-16.09.03:855][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_GlossyBlack_Latex_UE4F3813D68483DAF160237DFA5D8A15445.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2017.01.24-16.09.03:860][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2017.01.24-16.09.03:904][917]LogSavePackage: Save=12.23ms
+[2017.01.24-16.09.03:904][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_Plastic_Shiny_Beige9105E0F145E9273298AE7EB0417B6E6C.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2017.01.24-16.09.03:906][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2017.01.24-16.09.03:936][917]LogSavePackage: Save=9.96ms
+[2017.01.24-16.09.03:936][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/UE4_LOGO_CARD311228AB42338E2601AC18AD7F5438AB.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset'
+[2017.01.24-16.09.03:938][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset
+[2017.01.24-16.09.03:982][917]LogSavePackage: Save=13.15ms
+[2017.01.24-16.09.03:982][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_Plastic_Shiny_Beige_LOGOAB698CF0490677F3B20C48B10E91B367.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2017.01.24-16.09.03:985][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2017.01.24-16.09.04:150][917]LogSavePackage: Save=144.81ms
+[2017.01.24-16.09.04:150][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_Aluminum0132FC8EC04879354D8E9B2886A734D533.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2017.01.24-16.09.04:152][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2017.01.24-16.09.04:238][917]LogSavePackage: Save=64.88ms
+[2017.01.24-16.09.04:238][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_Aluminum01_NB147A2D240E14405532D74BF2B772147.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2017.01.24-16.09.04:241][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2017.01.24-16.09.04:287][917]LogSavePackage: Save=14.95ms
+[2017.01.24-16.09.04:287][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_SoftMetal_UE43999A665427D035D82FC2CA30F7CEBAE.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2017.01.24-16.09.04:289][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2017.01.24-16.09.04:394][917]LogSavePackage: Save=84.80ms
+[2017.01.24-16.09.04:394][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/UE4_Mannequin__normals246D477047596897596A5FAE32B7694F.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset'
+[2017.01.24-16.09.04:396][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset
+[2017.01.24-16.09.04:431][917]LogSavePackage: Save=16.84ms
+[2017.01.24-16.09.04:431][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/UE4_Mannequin_MAT_MASKA22C6BE9C467765DD384E56A1E11E7E06.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2017.01.24-16.09.04:433][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2017.01.24-16.09.04:482][917]LogSavePackage: Save=18.76ms
+[2017.01.24-16.09.04:482][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/M_UE4Man_BodyE30FAAAC45DCF799F1D779AE05E0229C.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset'
+[2017.01.24-16.09.04:484][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset
+[2017.01.24-16.09.04:493][917]LogSavePackage: Save=4.44ms
+[2017.01.24-16.09.04:493][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/SK_Mannequin_Arms_PhysicsAsset81C814354ADDC00E4E7942973BAF86D4.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset'
+[2017.01.24-16.09.04:495][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset
+[2017.01.24-16.09.04:568][917]LogSavePackage: Save=42.25ms
+[2017.01.24-16.09.04:568][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/SK_Mannequin_Arms21B88C4E4328CD821EF9089D0E772FDB.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset'
+[2017.01.24-16.09.04:571][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset
+[2017.01.24-16.09.04:680][917]LogSavePackage: Save=88.66ms
+[2017.01.24-16.09.04:680][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_Rubber_Blue_01_D91FFDF0B402B21226135F5BDD4F82674.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2017.01.24-16.09.04:682][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2017.01.24-16.09.04:780][917]LogSavePackage: Save=76.52ms
+[2017.01.24-16.09.04:780][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_Rubber_Blue_01_N63E97128446AF5964B4251A6941B4237.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2017.01.24-16.09.04:782][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2017.01.24-16.09.04:828][917]LogSavePackage: Save=15.34ms
+[2017.01.24-16.09.04:828][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_GlossyBlack_Latex_UE430867CAF4D65F6F300E114B3E7A56FDD.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2017.01.24-16.09.04:830][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2017.01.24-16.09.04:874][917]LogSavePackage: Save=13.04ms
+[2017.01.24-16.09.04:874][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_Plastic_Shiny_Beige7DECBEAE41ACEB05BC9B0B8A1B30A484.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2017.01.24-16.09.04:876][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2017.01.24-16.09.04:917][917]LogSavePackage: Save=11.35ms
+[2017.01.24-16.09.04:917][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_Screen5572D98F4BE4C35187647B812E7E9DC5.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset'
+[2017.01.24-16.09.04:918][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset
+[2017.01.24-16.09.05:078][917]LogSavePackage: Save=139.60ms
+[2017.01.24-16.09.05:078][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_Aluminum01FF0F3669465B1FE1273FA6A9DD6C78BC.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2017.01.24-16.09.05:080][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2017.01.24-16.09.05:167][917]LogSavePackage: Save=65.72ms
+[2017.01.24-16.09.05:167][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_Aluminum01_NE8FEC167472DAA381504189D3615A6A9.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2017.01.24-16.09.05:169][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2017.01.24-16.09.05:220][917]LogSavePackage: Save=20.99ms
+[2017.01.24-16.09.05:220][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_SoftMetal_UE4517442434CB4EA22A98528B270865F89.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2017.01.24-16.09.05:223][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2017.01.24-16.09.05:239][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" SILENT=true
+[2017.01.24-16.09.05:259][917]LogSavePackage: Save=19.28ms
+[2017.01.24-16.09.05:259][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_FPGun_M78CD440C4257B8028FF54DA0B73E2E30.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset'
+[2017.01.24-16.09.05:261][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset
+[2017.01.24-16.09.05:281][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" SILENT=true
+[2017.01.24-16.09.05:321][917]LogSavePackage: Save=39.28ms
+[2017.01.24-16.09.05:321][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_FPGun_NE80D81EE4238F929869DC8B00BCC6F41.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset'
+[2017.01.24-16.09.05:323][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset
+[2017.01.24-16.09.05:354][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/FPWeapon/Materials/M_FPGun" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" SILENT=true
+[2017.01.24-16.09.05:374][917]LogSavePackage: Save=19.14ms
+[2017.01.24-16.09.05:374][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/M_FPGun1E14AD404588FC2BC10B94A427688E01.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset'
+[2017.01.24-16.09.05:376][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset
+[2017.01.24-16.09.05:379][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" SILENT=true
+[2017.01.24-16.09.05:382][917]LogSavePackage: Save=1.48ms
+[2017.01.24-16.09.05:382][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/SK_FPGun_Skeleton7CA6EF5245DA4C8F501FAB86C870BD3F.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset'
+[2017.01.24-16.09.05:383][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset
+[2017.01.24-16.09.05:413][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" SILENT=true
+[2017.01.24-16.09.05:445][917]LogSavePackage: Save=30.01ms
+[2017.01.24-16.09.05:445][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/SK_FPGun1D1F205D44F93C3199B3A694E8B1066B.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset'
+[2017.01.24-16.09.05:447][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset
+[2017.01.24-16.09.05:452][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Textures/FirstPersonCrosshair" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" SILENT=true
+[2017.01.24-16.09.05:456][917]LogSavePackage: Save=1.93ms
+[2017.01.24-16.09.05:456][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonCrosshair685CDEA64040620822DD9C81E07F131B.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset'
+[2017.01.24-16.09.05:458][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset
+[2017.01.24-16.09.05:495][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Meshes/CubeMaterialOverride" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" SILENT=true
+[2017.01.24-16.09.05:508][917]LogSavePackage: Save=11.90ms
+[2017.01.24-16.09.05:508][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/CubeMaterialOverrideF3C816A44524988B0773D1963DF94536.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset'
+[2017.01.24-16.09.05:510][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset
+[2017.01.24-16.09.05:554][917]LogSavePackage: Save=13.17ms
+[2017.01.24-16.09.05:554][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/ML_Plastic_Shiny_Beige_LOGO53E34AB34B51076320363A8B2A13929D.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2017.01.24-16.09.05:556][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2017.01.24-16.09.05:562][917]LogSavePackage: Save=1.87ms
+[2017.01.24-16.09.05:562][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/SK_FPGun_PhysicsAsset1F419B1C4689E73A697683AF946AFE89.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset'
+[2017.01.24-16.09.05:564][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset
+[2017.01.24-16.09.05:692][917]LogSavePackage: Save=108.93ms
+[2017.01.24-16.09.05:692][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_ML_FineRubber77537F864278CACAB0AB488E7B336315.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset'
+[2017.01.24-16.09.05:695][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset
+[2017.01.24-16.09.08:236][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_AnimBP" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" SILENT=true
+[2017.01.24-16.09.08:241][917]LogSavePackage: Save=3.27ms
+[2017.01.24-16.09.08:241][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPerson_AnimBP1F4ADA944A7B829A35F85C8874F8B179.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2017.01.24-16.09.08:244][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset
+[2017.01.24-16.09.08:251][917]LogSavePackage: Save=2.08ms
+[2017.01.24-16.09.08:251][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonFire_MontageAAAAC5DF4315A6781DF32EB7D54D47E4.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset'
+[2017.01.24-16.09.08:252][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset
+[2017.01.24-16.09.08:259][917]LogSavePackage: Save=2.78ms
+[2017.01.24-16.09.08:259][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonProjectileMesh4A347DE44D9C86269D5E809A28417EDC.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset'
+[2017.01.24-16.09.08:260][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset
+[2017.01.24-16.09.08:266][917]LogSavePackage: Save=1.80ms
+[2017.01.24-16.09.08:266][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonTemplateWeaponFire0293E239E443E1E60720D4E7B0B668DB71.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset'
+[2017.01.24-16.09.08:267][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset
+[2017.01.24-16.09.08:304][917]LogSavePackage: Save=31.95ms
+[2017.01.24-16.09.08:304][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/SK_Mannequin_Arms7CE3EB704EF1E2BB6AAC249B2CC6A606.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset'
+[2017.01.24-16.09.08:306][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset
+[2017.01.24-16.09.08:309][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" SILENT=true
+[2017.01.24-16.09.08:332][917]LogSavePackage: Save=21.33ms
+[2017.01.24-16.09.08:332][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/SK_FPGun2F2D111F43120AF496BA90AC722D393E.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset'
+[2017.01.24-16.09.08:334][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset
+[2017.01.24-16.09.08:337][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Textures/FirstPersonCrosshair" FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" SILENT=true
+[2017.01.24-16.09.08:341][917]LogSavePackage: Save=1.73ms
+[2017.01.24-16.09.08:341][917]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPersonCrosshairB5DB3AD843F17FEEDE5947AEE421E9D3.tmp' to '../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset'
+[2017.01.24-16.09.08:342][917]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset
+[2017.01.24-16.09.19:084][ 92]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-16.09.19:100][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-16.09.19:100][ 92]PIE: New page: PIE session: Level1 (Jan 24, 2017, 6:09:19 PM)
+[2017.01.24-16.09.19:100][ 92]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-16.09.19:110][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009727s)
+[2017.01.24-16.09.19:110][ 92]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-16.09.19:111][ 92]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2017.01.24-16.09.19:111][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.010956s)
+[2017.01.24-16.09.19:136][ 92]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-16.09.19:150][ 92]LogInit: FAudioDevice initialized.
+[2017.01.24-16.09.19:183][ 92]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-16.09.19:186][ 92]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-17.09.19
+[2017.01.24-16.09.19:186][ 92]LogWorld: Bringing up level for play took: 0.001302
+[2017.01.24-16.09.19:190][ 92]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.768
+[2017.01.24-16.10.26:712][533]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-16.10.26:728][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-16.10.26:729][533]PIE: New page: PIE session: Level1 (Jan 24, 2017, 6:10:26 PM)
+[2017.01.24-16.10.26:729][533]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-16.10.26:737][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008206s)
+[2017.01.24-16.10.26:738][533]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-16.10.26:738][533]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2017.01.24-16.10.26:738][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.009519s)
+[2017.01.24-16.10.26:768][533]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-16.10.26:782][533]LogInit: FAudioDevice initialized.
+[2017.01.24-16.10.26:815][533]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-16.10.26:818][533]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-17.10.26
+[2017.01.24-16.10.26:818][533]LogWorld: Bringing up level for play took: 0.001130
+[2017.01.24-16.10.26:821][533]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.863
+[2017.01.24-16.10.50:219][117]LogTexture:Display: Building textures: T_ground_Moss_D (AutoDXT)
+[2017.01.24-16.11.00:094][117]LogTexture:Display: Building textures: T_Ground_Moss_N (BC5)
+[2017.01.24-16.11.01:278][117]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush9)
+[2017.01.24-16.11.39:752][716]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.01.24-16.12.00:099][ 91]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=-0.707107 VU=0.707107
+[2017.01.24-16.12.01:135][165]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=-0.707107 VU=0.707107
+[2017.01.24-16.13.40:416][833]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=-0.707107 VU=0.707107
+[2017.01.24-16.13.43:105][ 28]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=-0.707107 VU=0.707107
+[2017.01.24-16.13.43:937][ 88]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=-0.707107 VU=0.707107
+[2017.01.24-16.13.45:068][170]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=-0.707107 VU=0.707107
+[2017.01.24-16.13.56:470][986]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.01.24-16.13.59:022][170]Cmd: SELECT NONE
+[2017.01.24-16.14.02:629][468]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-16.14.02:645][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-16.14.02:646][468]PIE: New page: PIE session: Level1 (Jan 24, 2017, 6:14:02 PM)
+[2017.01.24-16.14.02:646][468]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-16.14.02:656][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010384s)
+[2017.01.24-16.14.02:657][468]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-16.14.02:658][468]LogPlayLevel: PIE: World Init took: (0.001963s)
+[2017.01.24-16.14.02:658][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.012611s)
+[2017.01.24-16.14.02:684][468]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-16.14.02:698][468]LogInit: FAudioDevice initialized.
+[2017.01.24-16.14.02:733][468]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-16.14.02:735][468]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-17.14.02
+[2017.01.24-16.14.02:735][468]LogWorld: Bringing up level for play took: 0.001122
+[2017.01.24-16.14.02:739][468]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.781
+[2017.01.24-16.14.23:133][206]LogActorFactory: Actor Factory created Cube
+[2017.01.24-16.14.24:551][302]LogActorFactory: Actor Factory created Cube
+[2017.01.24-16.14.25:754][383]Cmd: TRANSACTION UNDO
+[2017.01.24-16.14.25:754][383]LogEditorTransaction: Undo Create Actors
+[2017.01.24-16.14.32:846][961]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.01.24-16.14.41:203][569]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2017.01.24-16.14.54:607][519]Cmd: TRANSACTION UNDO
+[2017.01.24-16.14.54:607][519]LogEditorTransaction: Undo Rotate Actors
+[2017.01.24-16.14.56:301][631]Cmd: SELECT NONE
+[2017.01.24-16.15.27:249][851]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.01.24-16.15.27:718][881]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2017.01.24-16.16.20:308][602]Cmd: SELECT NONE
+[2017.01.24-16.18.36:800][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Maps/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.01.24-16.18.36:907][ 14]LogSavePackage: Save=101.88ms
+[2017.01.24-16.18.36:907][ 14]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/Level1_Auto184D34EA9481479E8D50B6D8CBD3156EA.tmp' to '../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Maps/Level1_Auto1.umap'
+[2017.01.24-16.18.36:908][ 14]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Maps/Level1_Auto1.umap
+[2017.01.24-16.18.36:910][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.124
+[2017.01.24-16.18.36:910][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.124
+[2017.01.24-16.19.30:416][537]LogMaterial: Missing cached shader map for material T_Rock_Slate_Mat, compiling. 
+[2017.01.24-16.20.01:252][593]Cmd: SELECT NONE
+[2017.01.24-16.20.30:808][663]LogStaticMesh: Building static mesh Pierre_StaticMesh...
+[2017.01.24-16.20.30:829][663]LogMeshUtilities: Invalid vertex normals found for mesh. Forcing recomputation of vertex normals for MikkTSpace. Fix mesh or disable "Use MikkTSpace Tangent Space" to avoid forced recomputation of normals.
+[2017.01.24-16.20.30:835][663]LogStaticMesh: Built static mesh [0.03s] /Game/Meshes/Pierre_StaticMesh.Pierre_StaticMesh
+[2017.01.24-16.20.30:840][663]LogActorFactory: Actor Factory created Pierre_StaticMesh
+[2017.01.24-16.20.30:887][663]EditorErrors: New page: Actor Reattachment
+[2017.01.24-16.20.38:086][ 71]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Pierre_StaticMesh)
+[2017.01.24-16.22.10:947][580]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (Bin1)
+[2017.01.24-16.23.57:470][ 27]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-16.23.57:486][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-16.23.57:486][ 27]PIE: New page: PIE session: Level1 (Jan 24, 2017, 6:23:57 PM)
+[2017.01.24-16.23.57:486][ 27]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-16.23.57:497][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010702s)
+[2017.01.24-16.23.57:498][ 27]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-16.23.57:498][ 27]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2017.01.24-16.23.57:498][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.011984s)
+[2017.01.24-16.23.57:526][ 27]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-16.23.57:540][ 27]LogInit: FAudioDevice initialized.
+[2017.01.24-16.23.57:576][ 27]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-16.23.57:579][ 27]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-17.23.57
+[2017.01.24-16.23.57:579][ 27]LogWorld: Bringing up level for play took: 0.001213
+[2017.01.24-16.23.57:583][ 27]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.375
+[2017.01.24-16.24.19:988][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pierre_StaticMesh)
+[2017.01.24-16.25.32:923][266]LogUObjectGlobals:Warning: Guid referenced by TextRenderComponent /Game/Blueprints/Pierre_StaticMesh_Blueprint.Pierre_StaticMesh_Blueprint_C:Bin1_GEN_VARIABLE is already used by TextRenderComponent /Game/Maps/Level1.Level1:PersistentLevel.Pierre_StaticMesh.Bin1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.01.24-16.25.33:734][266]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 111 classes and 0 folders.
+[2017.01.24-16.25.34:789][266]LogRenderer: Reallocating scene render targets to support 1164x900 NumSamples 1 (Frame:87991).
+[2017.01.24-16.25.55:996][249]LogEditorTransaction: Undo Edit Text Material
+[2017.01.24-16.25.57:430][413]LogEditorTransaction: Undo Replace Actor(s) with blueprint
+[2017.01.24-16.26.05:354][230]LogActorComponent: ReregisterComponent: (/Game/Maps/Level1.Level1:PersistentLevel.Pierre_StaticMesh_Blueprint_C_0.Bin1) Not currently registered. Aborting.
+[2017.01.24-16.26.05:390][234]LogActorComponent: ReregisterComponent: (/Game/Maps/Level1.Level1:PersistentLevel.Pierre_StaticMesh_Blueprint_C_0.Bin1) Not currently registered. Aborting.
+[2017.01.24-16.26.05:409][236]LogActorComponent: ReregisterComponent: (/Game/Maps/Level1.Level1:PersistentLevel.Pierre_StaticMesh_Blueprint_C_0.Bin1) Not currently registered. Aborting.
+[2017.01.24-16.26.05:428][238]LogActorComponent: ReregisterComponent: (/Game/Maps/Level1.Level1:PersistentLevel.Pierre_StaticMesh_Blueprint_C_0.Bin1) Not currently registered. Aborting.
+[2017.01.24-16.26.05:789][280]LogActorComponent: ReregisterComponent: (/Game/Maps/Level1.Level1:PersistentLevel.Pierre_StaticMesh_Blueprint_C_0.Bin1) Not currently registered. Aborting.
+[2017.01.24-16.26.08:912][624]LogEditorTransaction: Undo Modify Component(s)
+[2017.01.24-16.26.10:206][735]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2017.01.24-16.26.10:819][805]LogEditorTransaction: Undo Clicking on Actors
+[2017.01.24-16.26.10:968][822]LogEditorTransaction: Undo Move Components
+[2017.01.24-16.26.11:117][839]LogEditorTransaction: Undo Move Components
+[2017.01.24-16.28.53:347][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Maps/Level1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.01.24-16.28.53:454][746]LogSavePackage: Save=102.85ms
+[2017.01.24-16.28.53:454][746]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/Level1_Auto2451AEE5A42CB8D37664268A5BBF56398.tmp' to '../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Maps/Level1_Auto2.umap'
+[2017.01.24-16.28.53:455][746]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Maps/Level1_Auto2.umap
+[2017.01.24-16.28.53:457][746]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.143
+[2017.01.24-16.28.53:457][746]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.143
+[2017.01.24-16.28.53:460][746]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Rock_Slate_Mat] ([1] browsable assets)...
+[2017.01.24-16.28.53:515][746]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Rock_Slate_Mat.T_Rock_Slate_Mat]
+[2017.01.24-16.28.53:515][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Rock_Slate_Mat]
+[2017.01.24-16.28.53:532][746]LogSavePackage: Save=15.25ms
+[2017.01.24-16.28.53:532][746]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_Rock_Slate_Mat_Auto203C1FD6743516FEACDD1ECB8B13E8323.tmp' to '../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Slate_Mat_Auto2.uasset'
+[2017.01.24-16.28.53:533][746]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Slate_Mat_Auto2.uasset
+[2017.01.24-16.28.53:534][746]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Pierre_StaticMesh] ([1] browsable assets)...
+[2017.01.24-16.28.53:618][746]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Pierre_StaticMesh.Pierre_StaticMesh]
+[2017.01.24-16.28.53:618][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Pierre_StaticMesh]
+[2017.01.24-16.28.53:618][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Pierre_StaticMesh" FILE="../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Meshes/Pierre_StaticMesh_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.01.24-16.28.53:637][746]LogSavePackage: Save=17.74ms
+[2017.01.24-16.28.53:637][746]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/Pierre_StaticMesh_Auto2982F3E144EB9B7A3FB0B1B9B08377B49.tmp' to '../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Meshes/Pierre_StaticMesh_Auto2.uasset'
+[2017.01.24-16.28.53:639][746]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Meshes/Pierre_StaticMesh_Auto2.uasset
+[2017.01.24-16.28.53:640][746]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pierre_StaticMesh_Blueprint] ([1] browsable assets)...
+[2017.01.24-16.28.53:667][746]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pierre_StaticMesh_Blueprint.Pierre_StaticMesh_Blueprint]
+[2017.01.24-16.28.53:667][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pierre_StaticMesh_Blueprint]
+[2017.01.24-16.28.53:694][746]LogSavePackage: Save=23.90ms
+[2017.01.24-16.28.53:694][746]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/Pierre_StaticMesh_Blueprint_Auto22A8B16A042E43296E29F1AA4DC1299D2.tmp' to '../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Blueprints/Pierre_StaticMesh_Blueprint_Auto2.uasset'
+[2017.01.24-16.28.53:695][746]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Blueprints/Pierre_StaticMesh_Blueprint_Auto2.uasset
+[2017.01.24-16.28.53:695][746]LogFileHelpers: Auto-saving content packages took 0.237
+[2017.01.24-16.42.49:189][218]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.025
+[2017.01.24-16.42.49:191][218]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pierre_StaticMesh_Blueprint] ([1] browsable assets)...
+[2017.01.24-16.42.49:247][218]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pierre_StaticMesh_Blueprint.Pierre_StaticMesh_Blueprint]
+[2017.01.24-16.42.49:247][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pierre_StaticMesh_Blueprint]
+[2017.01.24-16.42.49:273][218]LogSavePackage: Save=23.98ms
+[2017.01.24-16.42.49:273][218]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/Pierre_StaticMesh_Blueprint_Auto3E07CCDB64DB0D26DF8530CA00DFB7142.tmp' to '../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Blueprints/Pierre_StaticMesh_Blueprint_Auto3.uasset'
+[2017.01.24-16.42.49:274][218]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Blueprints/Pierre_StaticMesh_Blueprint_Auto3.uasset
+[2017.01.24-16.42.49:274][218]LogFileHelpers: Auto-saving content packages took 0.084
+[2017.01.24-16.43.55:983][592]LogEditorTransaction: Undo Modify Component(s)
+[2017.01.24-16.43.57:095][718]LogEditorTransaction: Undo Modify Component(s)
+[2017.01.24-16.45.05:858][318]LogEditorTransaction: Undo Modify Component(s)
+[2017.01.24-16.45.07:472][497]LogEditorTransaction: Undo Modify Component(s)
+[2017.01.24-16.45.08:721][645]LogEditorTransaction: Undo Modify Component(s)
+[2017.01.24-16.46.53:629][855]Cmd: TRANSACTION UNDO
+[2017.01.24-16.46.53:629][855]LogEditorTransaction: Undo Move Components
+[2017.01.24-16.48.20:672][699]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (Bin3)
+[2017.01.24-16.48.23:603][961]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (Bin2)
+[2017.01.24-16.48.26:778][241]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (Bin3)
+[2017.01.24-16.48.28:323][379]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2017.01.24-16.48.29:292][447]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.01.24-16.48.29:737][486]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (Bin4)
+[2017.01.24-16.48.33:729][847]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (Bin3)
+[2017.01.24-16.48.36:920][136]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (Bin4)
+[2017.01.24-16.48.38:902][315]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (Bin3)
+[2017.01.24-16.48.41:204][522]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (Bin4)
+[2017.01.24-16.48.58:821][842]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Pierre_StaticMesh_Blueprint_C_1' or package '/Engine/Transient'.
+[2017.01.24-16.48.58:821][842]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Pierre_StaticMesh_Blueprint_C_0' or package '/Engine/Transient'.
+[2017.01.24-16.48.58:821][842]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Pierre_StaticMesh_Blueprint_C_76' or package '/Engine/Transient'.
+[2017.01.24-16.48.58:821][842]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Pierre_StaticMesh_Blueprint_C_74' or package '/Engine/Transient'.
+[2017.01.24-16.48.58:821][842]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Pierre_StaticMesh_Blueprint_C_70' or package '/Engine/Transient'.
+[2017.01.24-16.48.58:821][842]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Pierre_StaticMesh_Blueprint_C_68' or package '/Engine/Transient'.
+[2017.01.24-16.48.58:821][842]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Pierre_StaticMesh_Blueprint_C_66' or package '/Engine/Transient'.
+[2017.01.24-16.48.58:821][842]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Pierre_StaticMesh_Blueprint_C_79' or package '/Engine/Transient'.
+[2017.01.24-16.48.58:821][842]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Pierre_StaticMesh_Blueprint_C_64' or package '/Engine/Transient'.
+[2017.01.24-16.48.58:821][842]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Pierre_StaticMesh_Blueprint_C_72' or package '/Engine/Transient'.
+[2017.01.24-16.48.58:821][842]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_Pierre_StaticMesh_Blueprint_C_78' or package '/Engine/Transient'.
+[2017.01.24-16.49.06:461][441]LogUObjectGlobals:Warning: Guid referenced by TextRenderComponent /Game/Blueprints/Pierre_StaticMesh_Blueprint.Pierre_StaticMesh_Blueprint_C:Bin1_GEN_VARIABLE is already used by TextRenderComponent /Game/Maps/Level1.Level1:PersistentLevel.Pierre_StaticMesh.Bin1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.01.24-16.49.06:461][441]LogUObjectGlobals:Warning: Guid referenced by TextRenderComponent /Game/Blueprints/Pierre_StaticMesh_Blueprint.Pierre_StaticMesh_Blueprint_C:Bin2_GEN_VARIABLE is already used by TextRenderComponent /Game/Maps/Level1.Level1:PersistentLevel.Pierre_StaticMesh.Bin2, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.01.24-16.49.06:461][441]LogUObjectGlobals:Warning: Guid referenced by TextRenderComponent /Game/Blueprints/Pierre_StaticMesh_Blueprint.Pierre_StaticMesh_Blueprint_C:Bin3_GEN_VARIABLE is already used by TextRenderComponent /Game/Maps/Level1.Level1:PersistentLevel.Pierre_StaticMesh.Bin3, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.01.24-16.49.06:462][441]LogUObjectGlobals:Warning: Guid referenced by TextRenderComponent /Game/Blueprints/Pierre_StaticMesh_Blueprint.Pierre_StaticMesh_Blueprint_C:Bin4_GEN_VARIABLE is already used by TextRenderComponent /Game/Maps/Level1.Level1:PersistentLevel.Pierre_StaticMesh.Bin4, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.01.24-16.54.06:196][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Maps/Level1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.01.24-16.54.06:271][992]LogSavePackage: Save=70.34ms
+[2017.01.24-16.54.06:271][992]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/Level1_Auto42546CCAD4E234D302B70B7B96F489EA4.tmp' to '../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Maps/Level1_Auto4.umap'
+[2017.01.24-16.54.06:272][992]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Maps/Level1_Auto4.umap
+[2017.01.24-16.54.06:274][992]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.103
+[2017.01.24-16.54.06:274][992]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.103
+[2017.01.24-16.54.06:276][992]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pierre_StaticMesh_Blueprint] ([1] browsable assets)...
+[2017.01.24-16.54.06:332][992]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pierre_StaticMesh_Blueprint.Pierre_StaticMesh_Blueprint]
+[2017.01.24-16.54.06:332][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pierre_StaticMesh_Blueprint]
+[2017.01.24-16.54.06:371][992]LogSavePackage: Save=38.08ms
+[2017.01.24-16.54.06:371][992]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/Pierre_StaticMesh_Blueprint_Auto443AB0368409629D0F92EAD91B60A35E7.tmp' to '../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Blueprints/Pierre_StaticMesh_Blueprint_Auto4.uasset'
+[2017.01.24-16.54.06:373][992]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Saved/Autosaves/Game/Blueprints/Pierre_StaticMesh_Blueprint_Auto4.uasset
+[2017.01.24-16.54.06:373][992]LogFileHelpers: Auto-saving content packages took 0.097
+[2017.01.24-16.59.37:090][426]LogTexture:Display: Building textures: HDRI_Epic_Courtyard_Daylight (RGBA16F)
+[2017.01.24-16.59.51:848][426]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.24-16.59.51:946][426]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.24-16.59.51:971][426]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.24-16.59.51:975][426]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.24-16.59.51:978][426]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.24-16.59.51:981][426]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.24-16.59.51:983][426]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.24-16.59.51:986][426]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.24-16.59.52:013][426]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.24-16.59.52:016][426]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.24-16.59.52:018][426]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.24-16.59.52:044][426]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.24-16.59.52:051][426]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.24-16.59.52:069][426]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.24-16.59.52:071][426]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.24-16.59.52:072][426]LogSavePackage: Save=248.42ms
+[2017.01.24-16.59.52:073][426]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.24-16.59.52:073][426]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/BP_LightStudio7C289E694B9740B485C3CF89FD575E29.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset'
+[2017.01.24-16.59.52:077][426]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.24-16.59.52:079][426]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset
+[2017.01.24-16.59.52:814][427]LogTexture:Display: Building textures: T_Spark_Core (AutoDXT)
+[2017.01.24-16.59.53:167][427]LogTexture:Display: Building textures: T_Brick_Hewn_Stone_N (BC5)
+[2017.01.24-16.59.54:415][427]LogTexture:Display: Building textures: T_Brick_Hewn_Stone_M (AutoDXT)
+[2017.01.24-17.00.03:976][427]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.01.24-17.00.05:259][427]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.01.24-17.00.06:408][427]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2017.01.24-17.00.07:413][427]LogTexture:Display: Building textures: HQ_Lightmap0_4 (AutoDXT)
+[2017.01.24-17.00.07:592][427]LogTexture:Display: Building textures: HQ_Lightmap1_5 (AutoDXT)
+[2017.01.24-17.00.07:601][427]LogTexture:Display: Building textures: HQ_Lightmap1_6 (AutoDXT)
+[2017.01.24-17.00.07:634][427]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.01.24-17.00.08:064][427]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.01.24-17.00.08:432][427]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2017.01.24-17.00.08:846][427]LogTexture:Display: Building textures: LQ_Lightmap_0_4 (DXT1)
+[2017.01.24-17.00.08:925][427]LogTexture:Display: Building textures: LQ_Lightmap_1_5 (DXT1)
+[2017.01.24-17.00.08:931][427]LogTexture:Display: Building textures: LQ_Lightmap_1_6 (DXT1)
+[2017.01.24-17.00.08:937][427]LogTexture:Display: Building textures: T_Dust_Particle_D (AutoDXT)
+[2017.01.24-17.00.08:985][427]LogTexture:Display: Building textures: ShadowMapTexture2D_10 (BGRA8)
+[2017.01.24-17.00.09:022][427]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (BGRA8)
+[2017.01.24-17.00.09:245][427]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (BGRA8)
+[2017.01.24-17.00.09:299][427]LogTexture:Display: Building textures: ShadowMapTexture2D_8 (BGRA8)
+[2017.01.24-17.00.09:342][427]LogTexture:Display: Building textures: ShadowMapTexture2D_9 (BGRA8)
+[2017.01.24-17.00.09:455][427]LogTexture:Display: Building textures: ThumbnailTexture (DXT1)
+[2017.01.24-17.00.09:506][427]LogTexture:Display: Building textures: ThumbnailTexture (DXT1)
+[2017.01.24-17.00.09:797][427]LogTexture:Display: Building textures: T_Rock_Sandstone_D (AutoDXT)
+[2017.01.24-17.00.19:413][427]LogTexture:Display: Building textures: T_Rock_Sandstone_N (BC5)
+[2017.01.24-17.00.20:486][427]LogTexture:Display: Building textures: T_Tech_Dot_N (BC5)
+[2017.01.24-17.00.20:557][427]LogTexture:Display: Building textures: T_Tech_Dot_M (AutoDXT)
+[2017.01.24-17.00.20:715][427]LogTexture:Display: Building textures: T_Tech_Hex_Tile_M (AutoDXT)
+[2017.01.24-17.00.21:593][427]LogTexture:Display: Building textures: T_Tech_Hex_Tile_N (BC5)
+[2017.01.24-17.00.21:884][427]LogTexture:Display: Building textures: T_Tech_Panel_N (BC5)
+[2017.01.24-17.00.22:822][427]LogTexture:Display: Building textures: T_Tech_Panel_M (AutoDXT)
+[2017.01.24-17.00.25:139][427]LogTexture:Display: Building textures: T_Metal_Steel_D (AutoDXT)
+[2017.01.24-17.00.31:032][427]LogTexture:Display: Building textures: T_Water_M (AutoDXT)
+[2017.01.24-17.00.33:328][427]LogTexture:Display: Building textures: T_Wood_Pine_D (AutoDXT)
+[2017.01.24-17.00.42:760][427]LogTexture:Display: Building textures: T_Wood_Pine_N (BC5)
+[2017.01.24-17.00.43:948][427]LogTexture:Display: Building textures: T_Concrete_Tiles_Variation_M (AutoDXT)
+[2017.01.24-17.00.44:195][427]LogTexture:Display: Building textures: T_Concrete_Tiles_N (BC5)
+[2017.01.24-17.00.45:342][427]LogTexture:Display: Building textures: T_Concrete_Tiles_M (AutoDXT)
+[2017.01.24-17.00.54:189][427]LogTexture:Display: Building textures: T_Concrete_Tiles_D (AutoDXT)
+[2017.01.24-17.01.01:300][427]LogTexture:Display: Building textures: T_Concrete_Poured_N (BC5)
+[2017.01.24-17.01.02:533][427]LogTexture:Display: Building textures: T_Concrete_Poured_D (AutoDXT)
+[2017.01.24-17.01.12:226][427]LogTexture:Display: Building textures: T_Concrete_Panels_N (BC5)
+[2017.01.24-17.01.13:371][427]LogTexture:Display: Building textures: T_Concrete_Panels_D (AutoDXT)
+[2017.01.24-17.01.22:831][427]LogTexture:Display: Building textures: T_CobbleStone_Rough_N (BC5)
+[2017.01.24-17.01.23:160][427]LogTexture:Display: Building textures: T_CobbleStone_Rough_D (AutoDXT)
+[2017.01.24-17.01.25:992][427]LogTexture:Display: Building textures: T_CobbleStone_Pebble_N (BC5)
+[2017.01.24-17.01.27:254][427]LogTexture:Display: Building textures: T_CobbleStone_Pebble_M (AutoDXT)
+[2017.01.24-17.01.29:126][427]LogTexture:Display: Building textures: T_CobbleStone_Pebble_D (AutoDXT)
+[2017.01.24-17.01.38:635][427]LogTexture:Display: Building textures: T_Ceramic_Tile_N (BC5)
+[2017.01.24-17.01.39:497][427]LogTexture:Display: Building textures: T_Ceramic_Tile_M (DXT1)
+[2017.01.24-17.01.40:861][427]LogTexture:Display: Building textures: T_Brick_Hewn_Stone_D (AutoDXT)
+[2017.01.24-17.01.50:421][427]LogTexture:Display: Building textures: T_Brick_Clay_Old_N (BC5)
+[2017.01.24-17.01.51:662][427]LogTexture:Display: Building textures: T_Brick_Clay_Old_D (AutoDXT)
