@@ -1,0 +1,1338 @@
+﻿Log file open, 01/24/17 18:02:25
+LogInit:Display: Running engine for game: UniversityProject
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-724692348) SRandInit(-724692348).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.093760
+LogPluginManager: Loaded Plugin Paper2D, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From E:/Logiciels/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: E:/Logiciels/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.24-17.02.26:130][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.24-17.02.26:130][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.24-17.02.26:142][  0]LogInit: Computer: LYWINPC
+[2017.01.24-17.02.26:142][  0]LogInit: User: Lywin
+[2017.01.24-17.02.26:142][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.01.24-17.02.26:142][  0]LogInit: High frequency timer resolution =3.335293 MHz
+[2017.01.24-17.02.26:142][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.01.24-17.02.26:142][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.24-17.02.26:142][  0]LogMemory: Process Physical Memory: 264.45 MB used, 264.45 MB peak
+[2017.01.24-17.02.26:142][  0]LogMemory: Process Virtual Memory: 262.55 MB used, 262.55 MB peak
+[2017.01.24-17.02.26:142][  0]LogMemory: Physical Memory: 3740.88 MB used,  4449.24 MB free, 8190.11 MB total
+[2017.01.24-17.02.26:142][  0]LogMemory: Virtual Memory: 675.70 MB used,  4449.24 MB free, 134217728.00 MB total
+[2017.01.24-17.02.26:178][  0]LogTextLocalizationManager: No translations for ('fr-FR') exist, falling back to 'en' for localization and internationalization data.
+[2017.01.24-17.02.27:168][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.24-17.02.27:207][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2017.01.24-17.02.27:207][  0]LogD3D11RHI:       4058/0/4095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.01.24-17.02.27:209][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.24-17.02.27:209][  0]LogD3D11RHI:       0/0/4095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.24-17.02.27:209][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.24-17.02.27:215][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.24-17.02.27:215][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.24-17.02.27:215][  0]LogWindows: EnumDisplayDevices:
+[2017.01.24-17.02.27:215][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2017.01.24-17.02.27:215][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2017.01.24-17.02.27:216][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.01.24-17.02.27:216][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.01.24-17.02.27:216][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.01.24-17.02.27:216][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2017.01.24-17.02.27:216][  0]LogD3D11RHI:   Driver Version: 369.09 (internal:21.21.13.6909, unified:369.09)
+[2017.01.24-17.02.27:216][  0]LogD3D11RHI:      Driver Date: 8-1-2016
+[2017.01.24-17.02.27:216][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.01.24-17.02.27:233][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.24-17.02.27:246][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.01.24-17.02.27:247][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../UnrealProjects/UniversityProject/Intermediate/Shaders/WorkingDirectory/5116/).
+[2017.01.24-17.02.27:248][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lywin/AppData/Local/Temp/UnrealShaderWorkingDir/0D4E44544C2D4567F0FA20A788D3C090/'.
+[2017.01.24-17.02.27:248][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.24-17.02.28:961][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.24-17.02.29:035][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.24-17.02.29:107][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.24-17.02.29:182][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.24-17.02.29:257][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.24-17.02.29:332][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.24-17.02.29:405][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.24-17.02.29:480][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.24-17.02.29:539][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.24-17.02.29:615][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.24-17.02.29:689][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.24-17.02.29:763][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.24-17.02.29:839][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.24-17.02.29:914][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.24-17.02.29:994][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.24-17.02.30:140][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.24-17.02.30:140][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.24-17.02.30:190][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.24-17.02.30:300][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.24-17.02.30:345][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.24-17.02.30:418][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.24-17.02.30:492][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.24-17.02.30:566][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.24-17.02.30:640][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.24-17.02.30:640][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.24-17.02.31:117][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.24-17.02.31:233][  0]LogDerivedDataCache: Loaded boot cache 0.12s 50MB C:/Users/Lywin/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.24-17.02.31:233][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Lywin/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.24-17.02.31:233][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UnrealProjects/UniversityProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.24-17.02.31:233][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.24-17.02.31:233][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UnrealProjects/UniversityProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.24-17.02.31:233][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.24-17.02.31:261][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.24-17.02.31:274][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lywin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.24-17.02.31:597][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.24-17.02.31:601][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.24-17.02.31:873][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.24-17.02.31:930][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.24-17.02.31:991][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.24-17.02.31:991][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.24-17.02.31:991][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.24-17.02.32:721][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: universityproject, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 4107576575
+[2017.01.24-17.02.32:786][  0]LogAssetRegistry: FAssetRegistry took 0.0217 seconds to start up
+[2017.01.24-17.02.32:826][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.016137 seconds
+[2017.01.24-17.02.32:836][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.24-17.02.32:836][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.01.24-17.02.32:836][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.24-17.02.32:904][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.24-17.02.33:833][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.24-17.02.33:834][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.24-17.02.33:834][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.24-17.02.35:412][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.24-17.02.35:459][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.24-17.02.35:856][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.24-17.02.36:364][  0]SourceControl: Info Source control is disabled
+[2017.01.24-17.02.36:366][  0]SourceControl: Info Source control is disabled
+[2017.01.24-17.02.36:431][  0]SourceControl: Info Source control is disabled
+[2017.01.24-17.02.36:490][  0]SourceControl: Info Source control is disabled
+[2017.01.24-17.02.36:949][  0]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2017.01.24-17.02.36:949][  0]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2017.01.24-17.02.36:949][  0]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2017.01.24-17.02.38:231][  0]LogEngine: Initializing Engine...
+[2017.01.24-17.02.38:242][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2017.01.24-17.02.38:558][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.24-17.02.38:580][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.02.38:618][  0]LogInit: FAudioDevice initialized.
+[2017.01.24-17.02.38:667][  0]LogDerivedDataCache: Saved boot cache 0.05s 50MB C:/Users/Lywin/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.24-17.02.38:686][  0]LogInit: Texture streaming: Enabled
+[2017.01.24-17.02.38:926][  0]LogInit: Transaction tracking system initialized
+[2017.01.24-17.02.39:369][  0]BlueprintLog: New page: Editor Load
+[2017.01.24-17.02.40:553][  0]LocalizationService: Info Localization service is disabled
+[2017.01.24-17.02.41:410][  0]LogConsoleResponse:Display: 
+[2017.01.24-17.02.41:590][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.24-17.02.41:591][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.24-17.02.41:769][  0]LogFileCache: Scanning file cache for directory 'E:/Logiciels/Epic Games/UnrealProjects/UniversityProject/Content/' took 0.02s
+[2017.01.24-17.02.42:838][  0]SourceControl: Info Source control is disabled
+[2017.01.24-17.02.42:936][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.24-17.02.49:294][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.24-17.02.49:296][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.24-17.02.51:420][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.24-17.02.51:422][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.24-17.02.51:433][  0]Cmd: MAP LOAD FILE="../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.24-17.02.51:433][  0]LogEditorServer:Warning: Can't find file '../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2017.01.24-17.02.51:433][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.24-17.02.51:544][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 110.122ms to complete.
+[2017.01.24-17.02.51:544][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.111
+[2017.01.24-17.02.51:664][  0]LogStats:Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_22ac_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_1b0c_0///####STATCAT_Advanced####
+[2017.01.24-17.02.51:664][  0]LogCollectionManager: Loaded 0 collections in 0.001759 seconds
+[2017.01.24-17.02.51:758][  0]LogFileCache: Scanning file cache for directory 'E:/Logiciels/Epic Games/UnrealProjects/UniversityProject/Saved/Collections/' took 0.01s
+[2017.01.24-17.02.51:758][  0]LogFileCache: Scanning file cache for directory 'E:/Logiciels/Epic Games/UnrealProjects/UniversityProject/Content/Developers/Lywin/Collections/' took 0.01s
+[2017.01.24-17.02.51:758][  0]LogFileCache: Scanning file cache for directory 'E:/Logiciels/Epic Games/UnrealProjects/UniversityProject/Content/Collections/' took 0.01s
+[2017.01.24-17.02.51:758][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.01.24-17.02.51:772][  0]LogContentBrowser: Native class hierarchy populated in 0.0135 seconds. Added 2190 classes and 428 folders.
+[2017.01.24-17.02.51:825][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.24-17.02.51:825][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.24-17.02.51:826][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0009 seconds. Added 13 classes and 0 folders.
+[2017.01.24-17.02.51:902][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.01.24-17.02.51:986][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.01.24-17.02.52:043][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.01.24-17.02.52:092][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.24-17.02.52:100][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.24-17.02.52:178][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.01.24-17.02.52:179][  0]LogLoad: (Engine Initialization) Total time: 27.90 seconds
+[2017.01.24-17.02.52:179][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.08 seconds
+[2017.01.24-17.02.52:179][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.24-17.02.52:179][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.24-17.02.52:189][  0]LogOcInput: OculusInput pre-init called
+[2017.01.24-17.02.52:208][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2017.01.24-17.02.52:436][  0]LogRenderer: Reallocating scene render targets to support 1164x588 NumSamples 1 (Frame:2).
+[2017.01.24-17.02.52:580][  1]LogAssetRegistry: Asset discovery search completed in 19.8160 seconds
+[2017.01.24-17.02.52:580][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.24-17.02.52:580][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000020 seconds (updated 0 objects)
+[2017.01.24-17.03.00:470][884]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.03.00:507][884]Cmd: MAP LOAD FILE="../../../../UnrealProjects/UniversityProject/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.24-17.03.00:507][884]LightingResults: New page: Lighting Build
+[2017.01.24-17.03.00:557][884]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0007 seconds. Added 5 classes and 0 folders.
+[2017.01.24-17.03.00:558][884]LoadErrors: New page: Loading map: Level1.umap
+[2017.01.24-17.03.00:558][884]MapCheck: New page: Map Check
+[2017.01.24-17.03.00:558][884]LightingResults: New page: Lighting Build
+[2017.01.24-17.03.00:579][884]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.24-17.03.00:608][884]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.24-17.03.00:722][884]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 114.254ms to complete.
+[2017.01.24-17.03.00:724][884]LogFileHelpers: Loading map 'Level1' took 0.218
+[2017.01.24-17.03.07:441][623]LogEditorViewport: Clicking on Actor (LMB): Pierre_StaticMesh_Blueprint_C (Pierre_StaticMesh_Blueprint)
+[2017.01.24-17.03.10:756][862]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 111 classes and 0 folders.
+[2017.01.24-17.04.58:713][362]LogRenderer: Reallocating scene render targets to support 1164x900 NumSamples 1 (Frame:1746).
+[2017.01.24-17.07.31:747][102]BlueprintLog: New page: Compile Pierre_StaticMesh_Blueprint
+[2017.01.24-17.07.33:552][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pierre_StaticMesh_Blueprint" FILE="../../../../UnrealProjects/UniversityProject/Content/Blueprints/Pierre_StaticMesh_Blueprint.uasset" SILENT=true
+[2017.01.24-17.07.33:596][239]LogSavePackage: Save=39.35ms
+[2017.01.24-17.07.33:596][239]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/Pierre_StaticMesh_Blueprint401C009D41E53A64E2E2BEB6C00F9F24.tmp' to '../../../../UnrealProjects/UniversityProject/Content/Blueprints/Pierre_StaticMesh_Blueprint.uasset'
+[2017.01.24-17.07.33:598][239]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/Blueprints/Pierre_StaticMesh_Blueprint.uasset
+[2017.01.24-17.14.50:663][817]BlueprintLog: New page: Compile Pierre_StaticMesh_Blueprint
+[2017.01.24-17.15.12:358][187]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.15.12:379][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.15.12:379][187]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:15:12 PM)
+[2017.01.24-17.15.12:379][187]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.15.12:390][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010839s)
+[2017.01.24-17.15.12:391][187]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.15.12:391][187]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2017.01.24-17.15.12:391][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.012152s)
+[2017.01.24-17.15.12:429][187]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.15.12:445][187]LogInit: FAudioDevice initialized.
+[2017.01.24-17.15.12:500][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Idle'
+[2017.01.24-17.15.12:500][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Idle' while loading ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.uasset.
+[2017.01.24-17.15.12:545][187]LoadErrors:Error: Error /Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP : Can't find file for asset. /Game/StarterContent/FirstPerson/Animations/FirstPerson_Idle
+[2017.01.24-17.15.12:546][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd'
+[2017.01.24-17.15.12:546][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd' while loading ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.uasset.
+[2017.01.24-17.15.12:552][187]LoadErrors:Error: Error /Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP : Can't find file for asset. /Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd
+[2017.01.24-17.15.12:552][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop'
+[2017.01.24-17.15.12:552][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop' while loading ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.uasset.
+[2017.01.24-17.15.12:552][187]LoadErrors:Error: Error /Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP : Can't find file for asset. /Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop
+[2017.01.24-17.15.12:552][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart'
+[2017.01.24-17.15.12:552][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart' while loading ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.uasset.
+[2017.01.24-17.15.12:552][187]LoadErrors:Error: Error /Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP : Can't find file for asset. /Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart
+[2017.01.24-17.15.12:552][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Run'
+[2017.01.24-17.15.12:552][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Run' while loading ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.uasset.
+[2017.01.24-17.15.12:552][187]LoadErrors:Error: Error /Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP : Can't find file for asset. /Game/StarterContent/FirstPerson/Animations/FirstPerson_Run
+[2017.01.24-17.15.12:555][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Idle'
+[2017.01.24-17.15.12:555][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Idle' while loading ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.uasset.
+[2017.01.24-17.15.12:555][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd'
+[2017.01.24-17.15.12:555][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd' while loading ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.uasset.
+[2017.01.24-17.15.12:556][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop'
+[2017.01.24-17.15.12:556][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop' while loading ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.uasset.
+[2017.01.24-17.15.12:556][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart'
+[2017.01.24-17.15.12:556][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart' while loading ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.uasset.
+[2017.01.24-17.15.12:556][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Run'
+[2017.01.24-17.15.12:556][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Run' while loading ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.uasset.
+[2017.01.24-17.15.12:556][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton'
+[2017.01.24-17.15.12:556][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton' while loading ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.uasset.
+[2017.01.24-17.15.12:556][187]LoadErrors:Error: Error /Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP : Can't find file for asset. /Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton
+[2017.01.24-17.15.12:557][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton'
+[2017.01.24-17.15.12:557][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton' while loading ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.uasset.
+[2017.01.24-17.15.12:558][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton'
+[2017.01.24-17.15.12:558][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton Referenced by FirstPerson_AnimBP_C
+[2017.01.24-17.15.12:558][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:558][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonCharacter : Can't find file for asset. /Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton
+[2017.01.24-17.15.12:565][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Idle'
+[2017.01.24-17.15.12:565][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Idle' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:566][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonCharacter : Can't find file for asset. /Game/StarterContent/FirstPerson/Animations/FirstPerson_Idle
+[2017.01.24-17.15.12:566][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd'
+[2017.01.24-17.15.12:566][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:567][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonCharacter : Can't find file for asset. /Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd
+[2017.01.24-17.15.12:567][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop'
+[2017.01.24-17.15.12:568][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:568][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonCharacter : Can't find file for asset. /Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop
+[2017.01.24-17.15.12:569][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart'
+[2017.01.24-17.15.12:569][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:570][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonCharacter : Can't find file for asset. /Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart
+[2017.01.24-17.15.12:570][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Run'
+[2017.01.24-17.15.12:571][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Run' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:572][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonCharacter : Can't find file for asset. /Game/StarterContent/FirstPerson/Animations/FirstPerson_Run
+[2017.01.24-17.15.12:572][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Idle'
+[2017.01.24-17.15.12:573][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Idle' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:573][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd'
+[2017.01.24-17.15.12:574][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:575][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop'
+[2017.01.24-17.15.12:575][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:576][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart'
+[2017.01.24-17.15.12:576][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:577][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Run'
+[2017.01.24-17.15.12:578][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Run' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:579][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton'
+[2017.01.24-17.15.12:580][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:581][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton'
+[2017.01.24-17.15.12:581][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:584][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Run'
+[2017.01.24-17.15.12:584][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/Animations/FirstPerson_Run.FirstPerson_Run Referenced by Default__FirstPerson_AnimBP_C
+[2017.01.24-17.15.12:585][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Run' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:586][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd'
+[2017.01.24-17.15.12:587][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd.FirstPerson_JumpEnd Referenced by Default__FirstPerson_AnimBP_C
+[2017.01.24-17.15.12:587][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:589][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop'
+[2017.01.24-17.15.12:589][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop.FirstPerson_JumpLoop Referenced by Default__FirstPerson_AnimBP_C
+[2017.01.24-17.15.12:589][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:589][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart'
+[2017.01.24-17.15.12:589][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart.FirstPerson_JumpStart Referenced by Default__FirstPerson_AnimBP_C
+[2017.01.24-17.15.12:590][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:590][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Idle'
+[2017.01.24-17.15.12:590][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/Animations/FirstPerson_Idle.FirstPerson_Idle Referenced by Default__FirstPerson_AnimBP_C
+[2017.01.24-17.15.12:590][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Idle' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:591][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton'
+[2017.01.24-17.15.12:591][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton Referenced by FirstPerson_AnimBP
+[2017.01.24-17.15.12:591][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:596][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Idle'
+[2017.01.24-17.15.12:597][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/Animations/FirstPerson_Idle.FirstPerson_Idle Referenced by AnimGraphNode_SequencePlayer_340
+[2017.01.24-17.15.12:597][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Idle' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:597][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart'
+[2017.01.24-17.15.12:598][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart.FirstPerson_JumpStart Referenced by AnimGraphNode_SequencePlayer_391
+[2017.01.24-17.15.12:598][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpStart' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:598][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop'
+[2017.01.24-17.15.12:599][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop.FirstPerson_JumpLoop Referenced by AnimGraphNode_SequencePlayer_418
+[2017.01.24-17.15.12:599][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpLoop' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:600][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd'
+[2017.01.24-17.15.12:600][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd.FirstPerson_JumpEnd Referenced by AnimGraphNode_SequencePlayer_445
+[2017.01.24-17.15.12:600][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_JumpEnd' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:602][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Run'
+[2017.01.24-17.15.12:602][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/Animations/FirstPerson_Run.FirstPerson_Run Referenced by AnimGraphNode_SequencePlayer_113
+[2017.01.24-17.15.12:602][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPerson_Run' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:620][187]LogBlueprint:Error: [Compiler FirstPerson_AnimBP] Error  FirstPerson_AnimBP  - The skeleton asset for this animation Blueprint is missing, so it cannot be compiled!
+[2017.01.24-17.15.12:644][187]LogBlueprint:Warning: [Compiler FirstPerson_AnimBP] Warning [0768.35] Compile of FirstPerson_AnimBP failed. 1 Fatal Issue(s) 0 Warning(s) [in 11 ms] (/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP)
+[2017.01.24-17.15.12:644][187]LogBlueprint:Warning: [Compiler FirstPerson_AnimBP] Warning [0768.37] Compile of FirstPerson_AnimBP failed. 1 Fatal Issue(s) 1 Warning(s) [in 0 ms] (/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP)
+[2017.01.24-17.15.12:644][187]LogBlueprint:Warning: [Compiler FirstPerson_AnimBP] Warning [0768.37] Compile of FirstPerson_AnimBP failed. 1 Fatal Issue(s) 2 Warning(s) [in 0 ms] (/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP)
+[2017.01.24-17.15.12:645][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPersonFire_Montage'
+[2017.01.24-17.15.12:645][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPersonFire_Montage' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:645][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonCharacter : Can't find file for asset. /Game/StarterContent/FirstPerson/Animations/FirstPersonFire_Montage
+[2017.01.24-17.15.12:648][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Meshes/FirstPersonProjectileMesh'
+[2017.01.24-17.15.12:648][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Meshes/FirstPersonProjectileMesh' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset.
+[2017.01.24-17.15.12:648][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonProjectile : Can't find file for asset. /Game/StarterContent/FirstPerson/Meshes/FirstPersonProjectileMesh
+[2017.01.24-17.15.12:649][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Meshes/FirstPersonProjectileMesh'
+[2017.01.24-17.15.12:649][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Meshes/FirstPersonProjectileMesh' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset.
+[2017.01.24-17.15.12:650][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Meshes/FirstPersonProjectileMesh'
+[2017.01.24-17.15.12:650][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Meshes/FirstPersonProjectileMesh' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:650][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonCharacter : Can't find file for asset. /Game/StarterContent/FirstPerson/Meshes/FirstPersonProjectileMesh
+[2017.01.24-17.15.12:650][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Meshes/FirstPersonProjectileMesh'
+[2017.01.24-17.15.12:650][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Meshes/FirstPersonProjectileMesh' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:652][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Meshes/FirstPersonProjectileMesh'
+[2017.01.24-17.15.12:652][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/Meshes/FirstPersonProjectileMesh.FirstPersonProjectileMesh Referenced by StaticMeshComponent_252__1AD2D010
+[2017.01.24-17.15.12:652][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Meshes/FirstPersonProjectileMesh' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:668][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPersonFire_Montage'
+[2017.01.24-17.15.12:668][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPersonFire_Montage' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:669][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Audio/FirstPersonTemplateWeaponFire02'
+[2017.01.24-17.15.12:669][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Audio/FirstPersonTemplateWeaponFire02' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:669][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonCharacter : Can't find file for asset. /Game/StarterContent/FirstPerson/Audio/FirstPersonTemplateWeaponFire02
+[2017.01.24-17.15.12:669][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms'
+[2017.01.24-17.15.12:669][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:669][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonCharacter : Can't find file for asset. /Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms
+[2017.01.24-17.15.12:669][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun'
+[2017.01.24-17.15.12:669][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:669][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonCharacter : Can't find file for asset. /Game/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun
+[2017.01.24-17.15.12:670][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms'
+[2017.01.24-17.15.12:670][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:670][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun'
+[2017.01.24-17.15.12:670][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:671][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Audio/FirstPersonTemplateWeaponFire02'
+[2017.01.24-17.15.12:671][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Audio/FirstPersonTemplateWeaponFire02' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2017.01.24-17.15.12:673][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPersonFire_Montage'
+[2017.01.24-17.15.12:674][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPersonFire_Montage' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2017.01.24-17.15.12:674][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonGameMode : Can't find file for asset. /Game/StarterContent/FirstPerson/Animations/FirstPersonFire_Montage
+[2017.01.24-17.15.12:674][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPersonFire_Montage'
+[2017.01.24-17.15.12:674][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPersonFire_Montage' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2017.01.24-17.15.12:674][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Audio/FirstPersonTemplateWeaponFire02'
+[2017.01.24-17.15.12:674][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Audio/FirstPersonTemplateWeaponFire02' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2017.01.24-17.15.12:674][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonGameMode : Can't find file for asset. /Game/StarterContent/FirstPerson/Audio/FirstPersonTemplateWeaponFire02
+[2017.01.24-17.15.12:674][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms'
+[2017.01.24-17.15.12:674][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2017.01.24-17.15.12:675][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonGameMode : Can't find file for asset. /Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms
+[2017.01.24-17.15.12:675][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun'
+[2017.01.24-17.15.12:675][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2017.01.24-17.15.12:675][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonGameMode : Can't find file for asset. /Game/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun
+[2017.01.24-17.15.12:675][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms'
+[2017.01.24-17.15.12:675][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2017.01.24-17.15.12:675][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun'
+[2017.01.24-17.15.12:675][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2017.01.24-17.15.12:676][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Audio/FirstPersonTemplateWeaponFire02'
+[2017.01.24-17.15.12:676][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Audio/FirstPersonTemplateWeaponFire02' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2017.01.24-17.15.12:682][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Audio/FirstPersonTemplateWeaponFire02'
+[2017.01.24-17.15.12:683][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02 Referenced by K2Node_CallFunction_3218
+[2017.01.24-17.15.12:683][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Audio/FirstPersonTemplateWeaponFire02' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2017.01.24-17.15.12:684][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Animations/FirstPersonFire_Montage'
+[2017.01.24-17.15.12:684][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/Animations/FirstPersonFire_Montage.FirstPersonFire_Montage Referenced by K2Node_CallFunction_4872
+[2017.01.24-17.15.12:684][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Animations/FirstPersonFire_Montage' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2017.01.24-17.15.12:686][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms'
+[2017.01.24-17.15.12:686][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms Referenced by SkeletalMeshComponent_8__FC42DFE8
+[2017.01.24-17.15.12:687][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2017.01.24-17.15.12:687][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun'
+[2017.01.24-17.15.12:687][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun Referenced by FP_Gun_GEN_VARIABLE
+[2017.01.24-17.15.12:688][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2017.01.24-17.15.12:688][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun'
+[2017.01.24-17.15.12:689][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun Referenced by VR_Gun_GEN_VARIABLE
+[2017.01.24-17.15.12:689][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/FPWeapon/Mesh/SK_FPGun' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2017.01.24-17.15.12:736][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Textures/FirstPersonCrosshair'
+[2017.01.24-17.15.12:736][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Textures/FirstPersonCrosshair' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset.
+[2017.01.24-17.15.12:736][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonHUD : Can't find file for asset. /Game/StarterContent/FirstPerson/Textures/FirstPersonCrosshair
+[2017.01.24-17.15.12:737][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Textures/FirstPersonCrosshair'
+[2017.01.24-17.15.12:737][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Textures/FirstPersonCrosshair' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset.
+[2017.01.24-17.15.12:737][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Textures/FirstPersonCrosshair'
+[2017.01.24-17.15.12:738][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Textures/FirstPersonCrosshair' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2017.01.24-17.15.12:738][187]LoadErrors:Error: Error /Game/FirstPersonBP/Blueprints/FirstPersonGameMode : Can't find file for asset. /Game/StarterContent/FirstPerson/Textures/FirstPersonCrosshair
+[2017.01.24-17.15.12:738][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Textures/FirstPersonCrosshair'
+[2017.01.24-17.15.12:738][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Textures/FirstPersonCrosshair' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2017.01.24-17.15.12:739][187]LogLinker:Warning: Can't find file '/Game/StarterContent/FirstPerson/Textures/FirstPersonCrosshair'
+[2017.01.24-17.15.12:740][187]LoadErrors: Info Failed to load /Game/StarterContent/FirstPerson/Textures/FirstPersonCrosshair.FirstPersonCrosshair Referenced by K2Node_CallFunction_12988
+[2017.01.24-17.15.12:740][187]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/FirstPerson/Textures/FirstPersonCrosshair' while loading ../../../../UnrealProjects/UniversityProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2017.01.24-17.15.12:817][187]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.15.12:821][187]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.15.12
+[2017.01.24-17.15.12:821][187]LogWorld: Bringing up level for play took: 0.001599
+[2017.01.24-17.15.12:875][187]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.01.24-17.15.12:876][187]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.15.12:876][187]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.15.12:877][187]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.15.12:877][187]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.15.12:878][187]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.921
+[2017.01.24-17.15.40:173][758]LogEditorTransaction: Undo Paste clipboard contents
+[2017.01.24-17.15.54:302][508]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.15.54:318][508]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.01.24-17.15.54:333][508]LogPlayLevel: [PlayLevel] Compiling Pierre_StaticMesh_Blueprint before play...
+[2017.01.24-17.15.54:510][508]LogPlayLevel: PlayLevel: Blueprint regeneration took 191 ms (1 blueprints)
+[2017.01.24-17.16.01:567][617]BlueprintLog: New page: Compile Pierre_StaticMesh_Blueprint
+[2017.01.24-17.16.04:219][743]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.16.04:236][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.16.11:822][743]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:16:11 PM)
+[2017.01.24-17.16.11:823][743]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.16.11:840][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017786s)
+[2017.01.24-17.16.11:841][743]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.16.11:842][743]LogPlayLevel: PIE: World Init took: (0.001250s)
+[2017.01.24-17.16.11:842][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.019313s)
+[2017.01.24-17.16.11:881][743]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.16.11:894][743]LogInit: FAudioDevice initialized.
+[2017.01.24-17.16.11:925][743]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.16.11:928][743]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.16.11
+[2017.01.24-17.16.11:928][743]LogWorld: Bringing up level for play took: 0.001301
+[2017.01.24-17.16.11:930][743]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.16.11:930][743]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.16.11:930][743]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.16.11:930][743]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.16.11:931][743]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 7.974
+[2017.01.24-17.16.43:476][198]LogBlueprint:Error: [Compiler FirstPerson_AnimBP] Error  AnimGraphNode_SequencePlayer_340  references an unknown sequence
+[2017.01.24-17.16.43:477][198]LogBlueprint:Error: [Compiler FirstPerson_AnimBP] Error  AnimGraphNode_SequencePlayer_391  references an unknown sequence
+[2017.01.24-17.16.43:477][198]LogBlueprint:Error: [Compiler FirstPerson_AnimBP] Error  AnimGraphNode_SequencePlayer_418  references an unknown sequence
+[2017.01.24-17.16.43:478][198]LogBlueprint:Error: [Compiler FirstPerson_AnimBP] Error  AnimGraphNode_SequencePlayer_445  references an unknown sequence
+[2017.01.24-17.16.43:478][198]LogBlueprint:Error: [Compiler FirstPerson_AnimBP] Error  AnimGraphNode_SequencePlayer_113  references an unknown sequence
+[2017.01.24-17.16.43:480][198]LogBlueprint:Error: [Compiler FirstPerson_AnimBP] Error ICE: Player node  AnimGraphNode_SequencePlayer_391  was not processed prior to handling a transition getter  K2Node_TransitionRuleGetter_172  that used it
+[2017.01.24-17.16.43:481][198]LogBlueprint:Error: [Compiler FirstPerson_AnimBP] Error ICE: Player node  AnimGraphNode_SequencePlayer_445  was not processed prior to handling a transition getter  K2Node_TransitionRuleGetter_181  that used it
+[2017.01.24-17.16.43:482][198]LogBlueprint:Error: [Compiler FirstPerson_AnimBP] Error Missing allocated node for AnimGraphNode_SequencePlayer_340 while searching for node links - likely due to the node having outstanding errors.
+[2017.01.24-17.16.43:482][198]LogBlueprint:Error: [Compiler FirstPerson_AnimBP] Error Missing allocated node for AnimGraphNode_SequencePlayer_391 while searching for node links - likely due to the node having outstanding errors.
+[2017.01.24-17.16.43:482][198]LogBlueprint:Error: [Compiler FirstPerson_AnimBP] Error Missing allocated node for AnimGraphNode_SequencePlayer_418 while searching for node links - likely due to the node having outstanding errors.
+[2017.01.24-17.16.43:482][198]LogBlueprint:Error: [Compiler FirstPerson_AnimBP] Error Missing allocated node for AnimGraphNode_SequencePlayer_445 while searching for node links - likely due to the node having outstanding errors.
+[2017.01.24-17.16.43:482][198]LogBlueprint:Error: [Compiler FirstPerson_AnimBP] Error Missing allocated node for AnimGraphNode_SequencePlayer_113 while searching for node links - likely due to the node having outstanding errors.
+[2017.01.24-17.16.43:488][198]LogBlueprint:Error: [Compiler FirstPerson_AnimBP] Error Unexpected node type K2Node_TransitionRuleGetter encountered at  K2Node_TransitionRuleGetter_181
+[2017.01.24-17.16.43:488][198]LogBlueprint:Error: [Compiler FirstPerson_AnimBP] Error Unexpected node type K2Node_TransitionRuleGetter encountered at  K2Node_TransitionRuleGetter_172
+[2017.01.24-17.16.43:488][198]LogBlueprint:Error: [Compiler FirstPerson_AnimBP] Error Unexpected node type K2Node_TransitionRuleGetter encountered at  K2Node_TransitionRuleGetter_172
+[2017.01.24-17.16.43:489][198]LogBlueprint:Error: [Compiler FirstPerson_AnimBP] Error Unexpected node type K2Node_TransitionRuleGetter encountered at  K2Node_TransitionRuleGetter_181
+[2017.01.24-17.16.43:706][198]LogBlueprint:Warning: [Compiler FirstPerson_AnimBP] Warning [0859.43] Compile of FirstPerson_AnimBP failed. 16 Fatal Issue(s) 0 Warning(s) [in 246 ms] (/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP)
+[2017.01.24-17.16.43:706][198]LogBlueprint:Warning: [Compiler FirstPerson_AnimBP] Warning [0859.43] Compile of FirstPerson_AnimBP failed. 16 Fatal Issue(s) 1 Warning(s) [in 0 ms] (/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP)
+[2017.01.24-17.16.43:707][198]LogBlueprint:Warning: [Compiler FirstPerson_AnimBP] Warning [0859.43] Compile of FirstPerson_AnimBP failed. 16 Fatal Issue(s) 2 Warning(s) [in 0 ms] (/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP)
+[2017.01.24-17.16.43:707][198]LogBlueprint:Warning: [Compiler FirstPerson_AnimBP] Warning [0859.43] Compile of FirstPerson_AnimBP failed. 16 Fatal Issue(s) 3 Warning(s) [in 0 ms] (/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP)
+[2017.01.24-17.16.43:709][198]LogBlueprint:Warning: [Compiler FirstPerson_AnimBP] Warning [0859.43] Compile of FirstPerson_AnimBP failed. 16 Fatal Issue(s) 4 Warning(s) [in 2 ms] (/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP)
+[2017.01.24-17.16.43:709][198]LogBlueprint:Warning: [Compiler FirstPerson_AnimBP] Warning [0859.43] Compile of FirstPerson_AnimBP failed. 16 Fatal Issue(s) 5 Warning(s) [in 0 ms] (/Game/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP)
+[2017.01.24-17.16.48:884][466]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.16.48:901][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.16.50:302][466]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:16:50 PM)
+[2017.01.24-17.16.50:302][466]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.16.50:315][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013076s)
+[2017.01.24-17.16.50:316][466]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.16.50:317][466]LogPlayLevel: PIE: World Init took: (0.001377s)
+[2017.01.24-17.16.50:317][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.014775s)
+[2017.01.24-17.16.50:364][466]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.16.50:377][466]LogInit: FAudioDevice initialized.
+[2017.01.24-17.16.50:417][466]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.16.50:420][466]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.16.50
+[2017.01.24-17.16.50:420][466]LogWorld: Bringing up level for play took: 0.001336
+[2017.01.24-17.16.50:422][466]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.16.50:422][466]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.16.50:422][466]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.16.50:422][466]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.16.50:422][466]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 2.466
+[2017.01.24-17.17.03:656][210]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.17.03:673][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.17.03:673][210]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:17:03 PM)
+[2017.01.24-17.17.03:674][210]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.17.03:686][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011943s)
+[2017.01.24-17.17.03:686][210]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.17.03:687][210]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2017.01.24-17.17.03:687][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.013229s)
+[2017.01.24-17.17.03:733][210]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.17.03:746][210]LogInit: FAudioDevice initialized.
+[2017.01.24-17.17.03:785][210]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.17.03:789][210]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.17.03
+[2017.01.24-17.17.03:789][210]LogWorld: Bringing up level for play took: 0.001438
+[2017.01.24-17.17.03:791][210]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.17.03:791][210]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.17.03:791][210]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.17.03:791][210]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.17.03:792][210]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.165
+[2017.01.24-17.17.53:579][849]BlueprintLog: New page: Compile Pierre_StaticMesh_Blueprint
+[2017.01.24-17.17.54:455][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pierre_StaticMesh_Blueprint" FILE="../../../../UnrealProjects/UniversityProject/Content/Blueprints/Pierre_StaticMesh_Blueprint.uasset" SILENT=true
+[2017.01.24-17.17.54:514][880]LogSavePackage: Save=55.79ms
+[2017.01.24-17.17.54:515][880]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/Pierre_StaticMesh_Blueprint7812F7374D67E1DC157ED0BEE3DF7EE5.tmp' to '../../../../UnrealProjects/UniversityProject/Content/Blueprints/Pierre_StaticMesh_Blueprint.uasset'
+[2017.01.24-17.17.54:517][880]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/Blueprints/Pierre_StaticMesh_Blueprint.uasset
+[2017.01.24-17.17.56:698][993]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.17.56:714][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.17.56:714][993]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:17:56 PM)
+[2017.01.24-17.17.56:714][993]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.17.56:726][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011961s)
+[2017.01.24-17.17.56:727][993]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.17.56:727][993]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2017.01.24-17.17.56:728][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.013179s)
+[2017.01.24-17.17.56:766][993]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.17.56:779][993]LogInit: FAudioDevice initialized.
+[2017.01.24-17.17.56:813][993]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.17.56:816][993]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.17.56
+[2017.01.24-17.17.56:817][993]LogWorld: Bringing up level for play took: 0.001375
+[2017.01.24-17.17.56:818][993]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.17.56:818][993]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.17.56:818][993]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.17.56:819][993]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.17.56:819][993]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.863
+[2017.01.24-17.18.02:832][326]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.18.02:849][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.18.02:849][326]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:18:02 PM)
+[2017.01.24-17.18.02:849][326]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.18.02:861][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011406s)
+[2017.01.24-17.18.02:861][326]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.18.02:862][326]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2017.01.24-17.18.02:862][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.012685s)
+[2017.01.24-17.18.02:903][326]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.18.02:916][326]LogInit: FAudioDevice initialized.
+[2017.01.24-17.18.02:953][326]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.18.02:955][326]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.18.02
+[2017.01.24-17.18.02:956][326]LogWorld: Bringing up level for play took: 0.001286
+[2017.01.24-17.18.02:957][326]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.18.02:957][326]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.18.02:957][326]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.18.02:958][326]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.18.02:958][326]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 1.002
+[2017.01.24-17.18.05:031][430]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.18.05:047][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.18.05:047][430]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:18:05 PM)
+[2017.01.24-17.18.05:047][430]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.18.05:059][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011910s)
+[2017.01.24-17.18.05:060][430]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.18.05:060][430]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2017.01.24-17.18.05:061][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.013193s)
+[2017.01.24-17.18.05:102][430]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.18.05:115][430]LogInit: FAudioDevice initialized.
+[2017.01.24-17.18.05:150][430]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.18.05:153][430]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.18.05
+[2017.01.24-17.18.05:153][430]LogWorld: Bringing up level for play took: 0.001311
+[2017.01.24-17.18.05:155][430]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.18.05:155][430]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.18.05:155][430]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.18.05:155][430]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.18.05:156][430]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.801
+[2017.01.24-17.18.16:081][ 11]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.18.16:098][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.18.16:098][ 11]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:18:16 PM)
+[2017.01.24-17.18.16:098][ 11]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.18.16:109][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010574s)
+[2017.01.24-17.18.16:110][ 11]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.18.16:110][ 11]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2017.01.24-17.18.16:110][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.011767s)
+[2017.01.24-17.18.16:147][ 11]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.18.16:161][ 11]LogInit: FAudioDevice initialized.
+[2017.01.24-17.18.16:196][ 11]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.18.16:199][ 11]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.18.16
+[2017.01.24-17.18.16:199][ 11]LogWorld: Bringing up level for play took: 0.001317
+[2017.01.24-17.18.16:201][ 11]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.18.16:201][ 11]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.18.16:202][ 11]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.18.16:202][ 11]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.18.16:202][ 11]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.246
+[2017.01.24-17.19.14:427][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../UnrealProjects/UniversityProject/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.24-17.19.14:530][136]LogSavePackage: Save=76.78ms
+[2017.01.24-17.19.14:530][136]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/Level1FD28B0C741B65B7AD12AA5A45448828E.tmp' to '../../../../UnrealProjects/UniversityProject/Content/Maps/Level1.umap'
+[2017.01.24-17.19.14:532][136]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/Maps/Level1.umap
+[2017.01.24-17.19.14:561][136]LogFileHelpers: Saving map 'Level1' took 0.267
+[2017.01.24-17.19.14:670][136]LogSavePackage: Save=49.66ms
+[2017.01.24-17.19.14:671][136]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/FirstPerson_AnimBP56E0A7F143836CFD5979CB9FD2E3ECCF.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2017.01.24-17.19.14:673][136]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/FirstPerson/Animations/FirstPerson_AnimBP.uasset
+[2017.01.24-17.19.20:444][444]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.19.20:461][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.19.20:461][444]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:19:20 PM)
+[2017.01.24-17.19.20:461][444]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.19.20:472][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010530s)
+[2017.01.24-17.19.20:472][444]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.19.20:473][444]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2017.01.24-17.19.20:473][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.011785s)
+[2017.01.24-17.19.20:512][444]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.19.20:525][444]LogInit: FAudioDevice initialized.
+[2017.01.24-17.19.20:560][444]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.19.20:563][444]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.19.20
+[2017.01.24-17.19.20:564][444]LogWorld: Bringing up level for play took: 0.001321
+[2017.01.24-17.19.20:565][444]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.19.20:565][444]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.19.20:565][444]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.19.20:566][444]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.19.20:566][444]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.609
+[2017.01.24-17.19.24:144][634]MapCheck: New page: Map Check
+[2017.01.24-17.19.24:305][634]Cmd: MAP REBUILD ALLVISIBLE
+[2017.01.24-17.19.24:305][634]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.01.24-17.19.24:530][634]LightingResults: New page: Lighting Build - Jan 24, 2017, 7:19:24 PM
+[2017.01.24-17.19.24:675][634]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.01.24-17.19.26:378][634]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.01.24-17.19.26:405][634]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.01.24-17.19.27:474][634]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.01.24-17.19.27:474][634]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5116
+[2017.01.24-17.19.30:481][634]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.01.24-17.19.30:490][634]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.01.24-17.19.30:490][634]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.01.24-17.19.30:490][634]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.01.24-17.19.30:490][634]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.01.24-17.19.30:490][634]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.01.24-17.19.30:821][634]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.01.24-17.19.30:822][634]MapCheck: New page: Level1 - Jan 24, 2017, 7:19:30 PM
+[2017.01.24-17.19.30:857][634]MapCheck:Error: Error WorldSettings_1 Maps need lighting rebuilt 
+[2017.01.24-17.19.30:989][634]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 167.992ms to complete.
+[2017.01.24-17.19.31:012][634]LogEditorBuildUtils: Build time 0:06
+[2017.01.24-17.19.31:135][635]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer T_Rock_Slate_Mat, compiling. 
+[2017.01.24-17.19.31:154][635]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer T_Rock_Slate_Mat, compiling. 
+[2017.01.24-17.19.39:023][642]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.01.24-17.19.39:957][672]Job is a success!
+[2017.01.24-17.19.40:431][692]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.01.24-17.19.42:407][794]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.19.42:423][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.19.42:423][794]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:19:42 PM)
+[2017.01.24-17.19.42:424][794]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.19.42:434][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010153s)
+[2017.01.24-17.19.42:435][794]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.19.42:435][794]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2017.01.24-17.19.42:435][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.011390s)
+[2017.01.24-17.19.42:471][794]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.19.42:485][794]LogInit: FAudioDevice initialized.
+[2017.01.24-17.19.42:523][794]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.19.42:526][794]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.19.42
+[2017.01.24-17.19.42:526][794]LogWorld: Bringing up level for play took: 0.001295
+[2017.01.24-17.19.42:528][794]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.19.42:528][794]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.19.42:528][794]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.19.42:528][794]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.19.42:529][794]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.573
+[2017.01.24-17.19.46:584][990]LogMaterial:Warning: Material /Game/StarterContent/Textures/T_Rock_Slate_Mat.T_Rock_Slate_Mat needed to have new flag set bUsedWithStaticLighting !
+[2017.01.24-17.19.46:587][990]LogMaterial: Missing cached shader map for material T_Rock_Slate_Mat, compiling. 
+[2017.01.24-17.19.46:651][990]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.24-17.19.46:816][990]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.01.24-17.19.46:816][990]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.01.24-17.19.46:816][990]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.01.24-17.19.46:816][990]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.01.24-17.19.46:816][990]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (G8)
+[2017.01.24-17.19.46:816][990]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (G8)
+[2017.01.24-17.19.46:862][990]Lightmass on LYWINPC: 7.58 sec total, 121 ms importing, 52 ms setup, 145 ms photons, 7.21 sec processing, 0 ms extra exporting [20/20 mappings]. Threads: 28.8 sec total, 718 ms processing.
+[2017.01.24-17.19.46:899][990]LogStaticLightingSystem: Illumination: 15.9 sec (71 ms encoding lightmaps, 80 ms encoding shadowmaps)
+[2017.01.24-17.19.46:899][990]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.0 MB streaming, 0.5 MB non-streaming), 4 textures
+[2017.01.24-17.19.46:899][990]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.0 MB streaming, 0.2 MB non-streaming), 2 textures
+[2017.01.24-17.19.47:467][990]DumpUnbuiltLightIteractions
+[2017.01.24-17.19.47:467][990]Lights with unbuilt interactions: 0
+[2017.01.24-17.19.47:467][990]
+[2017.01.24-17.19.47:467][990]Primitives with unbuilt interactions: 0
+[2017.01.24-17.19.47:488][991]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.01.24-17.19.47:489][991]MapCheck: New page: Level1 - Jan 24, 2017, 7:19:47 PM
+[2017.01.24-17.19.47:635][991]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 146.743ms to complete.
+[2017.01.24-17.19.48:972][ 46]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.19.48:990][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.19.48:990][ 46]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:19:48 PM)
+[2017.01.24-17.19.48:991][ 46]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.19.49:002][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011569s)
+[2017.01.24-17.19.49:003][ 46]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.19.49:003][ 46]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2017.01.24-17.19.49:004][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.013002s)
+[2017.01.24-17.19.49:054][ 46]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.19.49:069][ 46]LogInit: FAudioDevice initialized.
+[2017.01.24-17.19.49:108][ 46]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.19.49:112][ 46]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.19.49
+[2017.01.24-17.19.49:112][ 46]LogWorld: Bringing up level for play took: 0.001552
+[2017.01.24-17.19.49:114][ 46]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.19.49:114][ 46]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.19.49:114][ 46]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.19.49:114][ 46]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.19.49:115][ 46]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.842
+[2017.01.24-17.19.53:267][234]LogEditorViewport: Clicking on Actor (LMB): Pierre_StaticMesh_Blueprint_C (Pierre_StaticMesh_Blueprint)
+[2017.01.24-17.20.15:212][307]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.20.15:229][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.20.15:229][307]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:20:15 PM)
+[2017.01.24-17.20.15:230][307]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.20.15:241][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011399s)
+[2017.01.24-17.20.15:242][307]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.20.15:242][307]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2017.01.24-17.20.15:242][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.012601s)
+[2017.01.24-17.20.15:278][307]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.20.15:291][307]LogInit: FAudioDevice initialized.
+[2017.01.24-17.20.15:336][307]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.20.15:346][307]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.20.15
+[2017.01.24-17.20.15:346][307]LogWorld: Bringing up level for play took: 0.004606
+[2017.01.24-17.20.15:351][307]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.20.15:351][307]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.20.15:351][307]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.20.15:351][307]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.20.15:352][307]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.605
+[2017.01.24-17.20.18:278][461]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.20.18:295][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.20.18:295][461]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:20:18 PM)
+[2017.01.24-17.20.18:295][461]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.20.18:305][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010142s)
+[2017.01.24-17.20.18:306][461]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.20.18:306][461]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2017.01.24-17.20.18:307][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.011488s)
+[2017.01.24-17.20.18:346][461]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.20.18:359][461]LogInit: FAudioDevice initialized.
+[2017.01.24-17.20.18:396][461]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.20.18:399][461]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.20.18
+[2017.01.24-17.20.18:399][461]LogWorld: Bringing up level for play took: 0.001364
+[2017.01.24-17.20.18:401][461]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.20.18:401][461]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.20.18:401][461]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.20.18:401][461]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.20.18:401][461]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.445
+[2017.01.24-17.20.20:465][565]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.20.20:482][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.20.20:483][565]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:20:20 PM)
+[2017.01.24-17.20.20:483][565]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.20.20:494][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010887s)
+[2017.01.24-17.20.20:494][565]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.20.20:495][565]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2017.01.24-17.20.20:495][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.012258s)
+[2017.01.24-17.20.20:534][565]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.20.20:546][565]LogInit: FAudioDevice initialized.
+[2017.01.24-17.20.20:581][565]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.20.20:583][565]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.20.20
+[2017.01.24-17.20.20:584][565]LogWorld: Bringing up level for play took: 0.001251
+[2017.01.24-17.20.20:585][565]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.20.20:585][565]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.20.20:585][565]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.20.20:586][565]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.20.20:586][565]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.63
+[2017.01.24-17.20.49:829][172]LogTexture:Display: Building textures: T_RockMesh_N (BC5)
+[2017.01.24-17.20.50:950][172]LogTexture:Display: Building textures: T_RockMesh_M (DXT1)
+[2017.01.24-17.21.07:046][921]LogEditorViewport: Clicking on Actor (LMB): Pierre_StaticMesh_Blueprint_C (Pierre_StaticMesh_Blueprint)
+[2017.01.24-17.21.12:806][274]Cmd: TRANSACTION UNDO
+[2017.01.24-17.21.12:806][274]LogEditorTransaction: Undo Move Actors
+[2017.01.24-17.22.49:031][413]LogEditorViewport: Clicking on Actor (LMB): Pierre_StaticMesh_Blueprint_C (Pierre_StaticMesh_Blueprint)
+[2017.01.24-17.22.53:120][633]Cmd: TRANSACTION UNDO
+[2017.01.24-17.22.53:120][633]LogEditorTransaction: Undo Clicking on Actors
+[2017.01.24-17.22.54:130][681]Cmd: TRANSACTION UNDO
+[2017.01.24-17.22.54:130][681]LogEditorTransaction: Undo Move Actors
+[2017.01.24-17.22.54:951][725]Cmd: TRANSACTION UNDO
+[2017.01.24-17.22.54:951][725]LogEditorTransaction: Undo Move Actors
+[2017.01.24-17.22.55:178][736]Cmd: TRANSACTION UNDO
+[2017.01.24-17.22.55:178][736]LogEditorTransaction: Undo Create Actors
+[2017.01.24-17.23.21:944][105]LogEditorTransaction: Undo Replace component used material
+[2017.01.24-17.23.37:783][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../UnrealProjects/UniversityProject/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.24-17.23.37:871][918]LogSavePackage: Save=63.70ms
+[2017.01.24-17.23.37:871][918]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/Level15B8C7049405916833ADA4CAA516A57C3.tmp' to '../../../../UnrealProjects/UniversityProject/Content/Maps/Level1.umap'
+[2017.01.24-17.23.37:873][918]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/Maps/Level1.umap
+[2017.01.24-17.23.37:901][918]LogFileHelpers: Saving map 'Level1' took 0.255
+[2017.01.24-17.23.37:903][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../UnrealProjects/UniversityProject/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2017.01.24-17.23.37:926][918]LogSavePackage: Save=21.41ms
+[2017.01.24-17.23.37:926][918]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/Level1_BuiltData3219D09045C69245A25594BFC3183152.tmp' to '../../../../UnrealProjects/UniversityProject/Content/Maps/Level1_BuiltData.uasset'
+[2017.01.24-17.23.37:928][918]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/Maps/Level1_BuiltData.uasset
+[2017.01.24-17.23.37:962][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Textures/T_Rock_Slate_Mat" FILE="../../../../UnrealProjects/UniversityProject/Content/StarterContent/Textures/T_Rock_Slate_Mat.uasset" SILENT=true
+[2017.01.24-17.23.37:993][918]LogSavePackage: Save=27.42ms
+[2017.01.24-17.23.37:993][918]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/T_Rock_Slate_MatEA2576D740C6082B4DBF05BA2363B8D8.tmp' to '../../../../UnrealProjects/UniversityProject/Content/StarterContent/Textures/T_Rock_Slate_Mat.uasset'
+[2017.01.24-17.23.37:995][918]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/StarterContent/Textures/T_Rock_Slate_Mat.uasset
+[2017.01.24-17.23.49:817][573]BlueprintLog: New page: Compile Pierre_StaticMesh_Blueprint
+[2017.01.24-17.29.43:130][ 54]BlueprintLog: New page: Compile Pierre_StaticMesh_Blueprint
+[2017.01.24-17.29.43:165][ 54]LogUObjectGlobals:Warning: Guid referenced by StaticMeshComponent /Game/Maps/Level1.Level1:PersistentLevel.Pierre_StaticMesh_Blueprint.StaticMeshComponent0 is already used by StaticMeshComponent /Game/Maps/Level1.Level1:PersistentLevel.REINST_Pierre_StaticMesh_Blueprint_C_0.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.01.24-17.29.46:795][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pierre_StaticMesh_Blueprint" FILE="../../../../UnrealProjects/UniversityProject/Content/Blueprints/Pierre_StaticMesh_Blueprint.uasset" SILENT=true
+[2017.01.24-17.29.46:862][218]LogSavePackage: Save=63.99ms
+[2017.01.24-17.29.46:862][218]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/Pierre_StaticMesh_Blueprint580B196D463BE63C0AC0699BEA10F9B0.tmp' to '../../../../UnrealProjects/UniversityProject/Content/Blueprints/Pierre_StaticMesh_Blueprint.uasset'
+[2017.01.24-17.29.46:864][218]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/Blueprints/Pierre_StaticMesh_Blueprint.uasset
+[2017.01.24-17.29.48:147][284]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.29.48:164][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.29.48:164][284]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:29:48 PM)
+[2017.01.24-17.29.48:164][284]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.29.48:175][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010583s)
+[2017.01.24-17.29.48:176][284]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.29.48:176][284]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2017.01.24-17.29.48:176][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.011881s)
+[2017.01.24-17.29.48:214][284]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.29.48:228][284]LogInit: FAudioDevice initialized.
+[2017.01.24-17.29.48:260][284]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.29.48:262][284]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.29.48
+[2017.01.24-17.29.48:263][284]LogWorld: Bringing up level for play took: 0.001317
+[2017.01.24-17.29.48:264][284]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.29.48:264][284]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.29.48:264][284]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.29.48:265][284]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.29.48:265][284]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.309
+[2017.01.24-17.30.27:435][483]BlueprintLog: New page: Compile Pierre_StaticMesh_Blueprint
+[2017.01.24-17.30.28:432][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pierre_StaticMesh_Blueprint" FILE="../../../../UnrealProjects/UniversityProject/Content/Blueprints/Pierre_StaticMesh_Blueprint.uasset" SILENT=true
+[2017.01.24-17.30.28:499][526]LogSavePackage: Save=64.44ms
+[2017.01.24-17.30.28:499][526]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/Pierre_StaticMesh_Blueprint203306DE4E83FCF4F944E994BE3C0738.tmp' to '../../../../UnrealProjects/UniversityProject/Content/Blueprints/Pierre_StaticMesh_Blueprint.uasset'
+[2017.01.24-17.30.28:501][526]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/Blueprints/Pierre_StaticMesh_Blueprint.uasset
+[2017.01.24-17.30.30:488][639]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.30.30:506][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.30.30:506][639]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:30:30 PM)
+[2017.01.24-17.30.30:506][639]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.30.30:516][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010330s)
+[2017.01.24-17.30.30:517][639]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.30.30:517][639]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2017.01.24-17.30.30:518][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.011673s)
+[2017.01.24-17.30.30:555][639]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.30.30:569][639]LogInit: FAudioDevice initialized.
+[2017.01.24-17.30.30:604][639]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.30.30:606][639]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.30.30
+[2017.01.24-17.30.30:607][639]LogWorld: Bringing up level for play took: 0.001394
+[2017.01.24-17.30.30:608][639]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.30.30:608][639]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.30.30:609][639]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.30.30:609][639]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.30.30:609][639]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.653
+[2017.01.24-17.30.34:457][875]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.30.34:474][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.30.34:474][875]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:30:34 PM)
+[2017.01.24-17.30.34:474][875]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.30.34:485][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011263s)
+[2017.01.24-17.30.34:486][875]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.30.34:486][875]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2017.01.24-17.30.34:487][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.012508s)
+[2017.01.24-17.30.34:534][875]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.30.34:547][875]LogInit: FAudioDevice initialized.
+[2017.01.24-17.30.34:582][875]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.30.34:585][875]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.30.34
+[2017.01.24-17.30.34:585][875]LogWorld: Bringing up level for play took: 0.001302
+[2017.01.24-17.30.34:587][875]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.30.34:587][875]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.30.34:587][875]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.30.34:587][875]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.30.34:588][875]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.631
+[2017.01.24-17.30.38:634][125]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.30.38:651][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.30.38:652][125]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:30:38 PM)
+[2017.01.24-17.30.38:652][125]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.30.38:664][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012652s)
+[2017.01.24-17.30.38:665][125]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.30.38:665][125]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2017.01.24-17.30.38:666][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.013884s)
+[2017.01.24-17.30.38:710][125]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.30.38:723][125]LogInit: FAudioDevice initialized.
+[2017.01.24-17.30.38:755][125]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.30.38:758][125]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.30.38
+[2017.01.24-17.30.38:758][125]LogWorld: Bringing up level for play took: 0.001358
+[2017.01.24-17.30.38:760][125]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.30.38:760][125]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.30.38:760][125]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.30.38:760][125]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.30.38:761][125]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.804
+[2017.01.24-17.31.59:715][621]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.31.59:746][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.31.59:747][621]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:31:59 PM)
+[2017.01.24-17.31.59:747][621]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.31.59:762][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015201s)
+[2017.01.24-17.31.59:767][621]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.31.59:767][621]LogPlayLevel: PIE: World Init took: (0.004944s)
+[2017.01.24-17.31.59:767][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.020420s)
+[2017.01.24-17.31.59:807][621]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.31.59:820][621]LogInit: FAudioDevice initialized.
+[2017.01.24-17.31.59:856][621]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.31.59:859][621]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.31.59
+[2017.01.24-17.31.59:859][621]LogWorld: Bringing up level for play took: 0.001462
+[2017.01.24-17.31.59:861][621]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.31.59:861][621]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.31.59:861][621]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.31.59:861][621]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.31.59:862][621]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.095
+[2017.01.24-17.32.01:982][745]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.32.01:999][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.32.01:999][745]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:32:01 PM)
+[2017.01.24-17.32.01:999][745]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.32.02:011][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011060s)
+[2017.01.24-17.32.02:011][745]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.32.02:012][745]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2017.01.24-17.32.02:012][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.012429s)
+[2017.01.24-17.32.02:055][745]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.32.02:069][745]LogInit: FAudioDevice initialized.
+[2017.01.24-17.32.02:105][745]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.32.02:108][745]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.32.02
+[2017.01.24-17.32.02:108][745]LogWorld: Bringing up level for play took: 0.001311
+[2017.01.24-17.32.02:110][745]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.02:110][745]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.02:110][745]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.02:111][745]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.02:111][745]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.155
+[2017.01.24-17.32.08:505][115]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.32.08:522][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.32.08:522][115]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:32:08 PM)
+[2017.01.24-17.32.08:522][115]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.32.08:532][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010197s)
+[2017.01.24-17.32.08:533][115]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.32.08:533][115]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2017.01.24-17.32.08:534][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.011429s)
+[2017.01.24-17.32.08:568][115]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.32.08:581][115]LogInit: FAudioDevice initialized.
+[2017.01.24-17.32.08:616][115]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.32.08:619][115]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.32.08
+[2017.01.24-17.32.08:619][115]LogWorld: Bringing up level for play took: 0.001496
+[2017.01.24-17.32.08:621][115]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.08:621][115]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.08:621][115]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.08:622][115]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.08:622][115]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.666
+[2017.01.24-17.32.11:258][273]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.32.11:275][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.32.11:275][273]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:32:11 PM)
+[2017.01.24-17.32.11:275][273]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.32.11:286][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011114s)
+[2017.01.24-17.32.11:287][273]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.32.11:287][273]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2017.01.24-17.32.11:287][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.012349s)
+[2017.01.24-17.32.11:332][273]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.32.11:345][273]LogInit: FAudioDevice initialized.
+[2017.01.24-17.32.11:379][273]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.32.11:382][273]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.32.11
+[2017.01.24-17.32.11:382][273]LogWorld: Bringing up level for play took: 0.001361
+[2017.01.24-17.32.11:384][273]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.11:384][273]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.11:384][273]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.11:384][273]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.11:385][273]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.572
+[2017.01.24-17.32.13:358][383]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.32.13:375][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.32.13:375][383]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:32:13 PM)
+[2017.01.24-17.32.13:375][383]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.32.13:387][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011257s)
+[2017.01.24-17.32.13:387][383]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.32.13:388][383]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2017.01.24-17.32.13:388][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.012493s)
+[2017.01.24-17.32.13:430][383]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.32.13:443][383]LogInit: FAudioDevice initialized.
+[2017.01.24-17.32.13:475][383]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.32.13:478][383]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.32.13
+[2017.01.24-17.32.13:478][383]LogWorld: Bringing up level for play took: 0.001433
+[2017.01.24-17.32.13:480][383]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.13:480][383]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.13:480][383]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.13:480][383]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.13:481][383]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.475
+[2017.01.24-17.32.17:172][610]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.24-17.32.17:189][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-17.32.17:189][610]PIE: New page: PIE session: Level1 (Jan 24, 2017, 7:32:17 PM)
+[2017.01.24-17.32.17:189][610]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2017.01.24-17.32.17:200][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010487s)
+[2017.01.24-17.32.17:201][610]LogAIModule: Creating AISystem for world Level1
+[2017.01.24-17.32.17:201][610]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2017.01.24-17.32.17:201][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.011773s)
+[2017.01.24-17.32.17:241][610]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.24-17.32.17:254][610]LogInit: FAudioDevice initialized.
+[2017.01.24-17.32.17:290][610]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.24-17.32.17:293][610]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.01.24-18.32.17
+[2017.01.24-17.32.17:293][610]LogWorld: Bringing up level for play took: 0.001453
+[2017.01.24-17.32.17:295][610]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.17:295][610]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.17:295][610]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.17:295][610]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.01.24-17.32.17:295][610]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.661
+[2017.01.24-17.32.39:464][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../UnrealProjects/UniversityProject/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.24-17.32.39:554][939]LogSavePackage: Save=63.54ms
+[2017.01.24-17.32.39:554][939]LogSavePackage: Moving '../../../../UnrealProjects/UniversityProject/Saved/Level1C2B05D7D45054AE2969C07A952CC6442.tmp' to '../../../../UnrealProjects/UniversityProject/Content/Maps/Level1.umap'
+[2017.01.24-17.32.39:556][939]LogSavePackage:Display: Finished SavePackage ../../../../UnrealProjects/UniversityProject/Content/Maps/Level1.umap
+[2017.01.24-17.32.39:585][939]LogFileHelpers: Saving map 'Level1' took 0.255
+[2017.01.24-17.37.42:279][306]SourceControl: Info Source control is disabled
+[2017.01.24-17.38.47:198][459]SourceControl: Info On branch master
+[2017.01.24-17.38.47:198][459]SourceControl: Info Initial commit
+[2017.01.24-17.38.47:198][459]SourceControl: Info Untracked files:
+[2017.01.24-17.38.47:198][459]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2017.01.24-17.38.47:198][459]SourceControl: Info 	Config/
+[2017.01.24-17.38.47:198][459]SourceControl: Info 	Content/
+[2017.01.24-17.38.47:198][459]SourceControl: Info 	Intermediate/
+[2017.01.24-17.38.47:198][459]SourceControl: Info 	Saved/
+[2017.01.24-17.38.47:198][459]SourceControl: Info 	UniversityProject.uproject
+[2017.01.24-17.38.47:198][459]SourceControl: Info nothing added to commit but untracked files present (use "git add" to track)
+[2017.01.24-17.43.03:773][179]Cmd: QUIT_EDITOR
+[2017.01.24-17.43.05:273][179]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.24-17.43.22:187][179]LogExit: Preparing to exit.
+[2017.01.24-17.43.23:425][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2017.01.24-17.43.23:425][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2017.01.24-17.43.23:495][179]LogDirectoryWatcher: A directory notification for 'E:/Logiciels/Epic Games/UnrealProjects/UniversityProject/Content/' was aborted.
+[2017.01.24-17.43.23:719][179]LogExit: Editor shut down
+[2017.01.24-17.43.23:725][179]LogExit: Transaction tracking system shut down
+[2017.01.24-17.43.24:050][179]LogObj: Freed 0b from 0 cluster array pools.
+[2017.01.24-17.43.24:050][179]LogExit: Object subsystem successfully closed.
+[2017.01.24-17.43.24:089][179]LogD3D11RHI: Shutdown
+[2017.01.24-17.43.24:089][179]LogD3D11RHI: CleanupD3DDevice
+[2017.01.24-17.43.24:423][179]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.01.24-17.43.24:469][179]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.01.24-17.43.24:469][179]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3EBFE443-45DC-A99D-AE81-AAB3400F2BE9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=dfb341e34e768ae7161a849084d4b7ad%7C617bc47c33254e37ae6deee313547970%7Ca692e942-84af-4844-ae73-7dce0391bd75&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.24-17.43.24:480][179]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (245)
+[2017.01.24-17.43.24:490][179]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (244)
+[2017.01.24-17.43.24:490][179]LogModuleManager: Shutting down and abandoning module BlueprintGraph (243)
+[2017.01.24-17.43.24:490][179]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (242)
+[2017.01.24-17.43.24:490][179]LogModuleManager: Shutting down and abandoning module StatsViewer (241)
+[2017.01.24-17.43.24:490][179]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (240)
+[2017.01.24-17.43.24:490][179]LogModuleManager: Shutting down and abandoning module CrashTracker (239)
+[2017.01.24-17.43.24:490][179]LogModuleManager: Shutting down and abandoning module SceneOutliner (238)
+[2017.01.24-17.43.24:490][179]LogModuleManager: Shutting down and abandoning module WidgetCarousel (237)
+[2017.01.24-17.43.24:490][179]LogModuleManager: Shutting down and abandoning module AddContentDialog (236)
+[2017.01.24-17.43.24:491][179]LogDirectoryWatcher: A directory notification for 'E:/Logiciels/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.01.24-17.43.24:499][179]LogModuleManager: Shutting down and abandoning module GameplayTags (235)
+[2017.01.24-17.43.24:499][179]LogModuleManager: Shutting down and abandoning module EditorWidgets (234)
+[2017.01.24-17.43.24:499][179]LogModuleManager: Shutting down and abandoning module CollectionManager (233)
+[2017.01.24-17.43.24:499][179]LogDirectoryWatcher: A directory notification for 'E:/Logiciels/Epic Games/UnrealProjects/UniversityProject/Content/Collections/' was aborted.
+[2017.01.24-17.43.24:499][179]LogDirectoryWatcher: A directory notification for 'E:/Logiciels/Epic Games/UnrealProjects/UniversityProject/Content/Developers/Lywin/Collections/' was aborted.
+[2017.01.24-17.43.24:499][179]LogDirectoryWatcher: A directory notification for 'E:/Logiciels/Epic Games/UnrealProjects/UniversityProject/Saved/Collections/' was aborted.
+[2017.01.24-17.43.24:499][179]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.01.24-17.43.24:499][179]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.01.24-17.43.24:499][179]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.01.24-17.43.24:499][179]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.01.24-17.43.24:499][179]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.01.24-17.43.24:499][179]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.01.24-17.43.24:499][179]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.01.24-17.43.24:499][179]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.01.24-17.43.24:500][179]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.01.24-17.43.25:036][179]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.01.24-17.43.25:036][179]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.01.24-17.43.25:036][179]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.01.24-17.43.25:036][179]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.01.24-17.43.25:036][179]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.01.24-17.43.25:036][179]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.01.24-17.43.25:036][179]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.01.24-17.43.25:036][179]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.01.24-17.43.25:037][179]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.01.24-17.43.25:037][179]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.01.24-17.43.25:037][179]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.01.24-17.43.25:037][179]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.01.24-17.43.25:037][179]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.01.24-17.43.25:037][179]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.01.24-17.43.25:037][179]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.01.24-17.43.25:037][179]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.01.24-17.43.25:037][179]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.01.24-17.43.25:037][179]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.01.24-17.43.25:037][179]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.01.24-17.43.25:037][179]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.01.24-17.43.25:037][179]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.01.24-17.43.25:037][179]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.01.24-17.43.25:037][179]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.01.24-17.43.25:038][179]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.01.24-17.43.25:038][179]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.01.24-17.43.25:038][179]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.01.24-17.43.25:082][179]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.01.24-17.43.25:082][179]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.01.24-17.43.25:082][179]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.01.24-17.43.25:082][179]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.01.24-17.43.25:082][179]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.01.24-17.43.25:082][179]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.01.24-17.43.25:082][179]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.01.24-17.43.25:082][179]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.01.24-17.43.25:082][179]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.01.24-17.43.25:096][179]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.01.24-17.43.25:136][179]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.01.24-17.43.25:137][179]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.01.24-17.43.25:137][179]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.01.24-17.43.25:137][179]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.01.24-17.43.25:137][179]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.01.24-17.43.25:140][179]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.01.24-17.43.25:142][179]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.01.24-17.43.25:146][179]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.01.24-17.43.25:246][179]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.01.24-17.43.25:347][179]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.01.24-17.43.25:348][179]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.01.24-17.43.25:348][179]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.01.24-17.43.25:352][179]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.01.24-17.43.25:352][179]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.01.24-17.43.25:352][179]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.01.24-17.43.25:352][179]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.01.24-17.43.25:352][179]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.01.24-17.43.25:352][179]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.01.24-17.43.25:352][179]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.01.24-17.43.25:354][179]LogDirectoryWatcher: A directory notification for '../../../../UnrealProjects/UniversityProject/Content/' was aborted.
+[2017.01.24-17.43.25:354][179]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.01.24-17.43.25:358][179]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.01.24-17.43.25:572][179]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.01.24-17.43.25:572][179]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.01.24-17.43.25:572][179]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.01.24-17.43.25:572][179]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.01.24-17.43.25:572][179]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.01.24-17.43.25:572][179]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.01.24-17.43.25:572][179]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.01.24-17.43.25:572][179]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.01.24-17.43.25:629][179]LogDerivedDataCache: Shutdown
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.01.24-17.43.25:629][179]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.01.24-17.43.25:630][179]LogOnline:Display: Unloading online subsystem: NULL
+[2017.01.24-17.43.25:630][179]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.01.24-17.43.25:633][179]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.01.24-17.43.25:633][179]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.01.24-17.43.25:633][179]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.01.24-17.43.25:633][179]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.01.24-17.43.25:633][179]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.01.24-17.43.25:633][179]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.01.24-17.43.25:642][179]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.01.24-17.43.25:642][179]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.01.24-17.43.25:642][179]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.01.24-17.43.25:642][179]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.01.24-17.43.25:642][179]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.01.24-17.43.25:642][179]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.01.24-17.43.25:642][179]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.01.24-17.43.25:642][179]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.01.24-17.43.25:642][179]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.01.24-17.43.25:642][179]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.01.24-17.43.25:678][179]LogExit: Exiting.
+[2017.01.24-17.43.25:702][179]Log file closed, 01/24/17 18:43:25
